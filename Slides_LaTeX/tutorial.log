@@ -1,0 +1,4044 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 MAY 2017 15:21
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**tutorial.tex
+(./tutorial.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamer.cls
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasercs.sty
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen158
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen162
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count115
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4322.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4322.
+Package hyperref Info: Option `implicit' set `false' on input line 4322.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count121
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count122
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring OFF on input line 6318.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
+y
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+(/usr/local/texlive/2016/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count136
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
+sty
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box44
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box45
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks30
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
+ty
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen176
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen177
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen178
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks33
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count152
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/theme/beamerthemede
+fault.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/font/beamerfontthem
+edefault.sty
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
+emedefault.sty
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerth
+emedefault.sty
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/outer/beamerouterth
+emedefault.sty
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamertheme-metropolis/beamerthem
+emetropolis.sty
+Package: beamerthememetropolis 2016/03/14 v1.1 Metropolis Beamer theme
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count153
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+)
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamertheme-metropolis/beamerinne
+rthememetropolis.sty
+Package: beamerinnerthememetropolis 2016/03/14 Metropolis inner theme
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen188
+\calc@Bdimen=\dimen189
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip59
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count157
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikzleveldistance=\dimen199
+\tikzsiblingdistance=\dimen256
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count158
+\tikznumberofchildren=\count159
+\tikznumberofcurrentchild=\count160
+\tikz@fig@count=\count161
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count162
+\pgfmatrixcurrentcolumn=\count163
+\pgf@matrix@numberofcolumns=\count164
+)
+\tikz@expandcount=\count165
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\metropolis@progressonsectionpage=\skip60
+\metropolis@blocksep=\skip61
+\metropolis@blockadjust=\skip62
+\metropolis@parskip=\skip63
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamertheme-metropolis/beameroute
+rthememetropolis.sty
+Package: beamerouterthememetropolis 2016/03/14 Metropolis outer theme
+\metropolis@frametitle@padding=\skip64
+\metropolis@progressinheadfoot=\skip65
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamertheme-metropolis/beamercolo
+rthememetropolis.sty
+Package: beamercolorthememetropolis 2016/03/14 Metropolis color theme
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamertheme-metropolis/beamerfont
+thememetropolis.sty
+Package: beamerfontthememetropolis 2016/03/14 Metropolis font theme
+
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
+aTeX to use the Fira fonts on input line 91.
+
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 4.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count166
+\lst@gtempboxa=\box58
+\lst@token=\toks47
+\lst@length=\count167
+\lst@currlwidth=\dimen257
+\lst@column=\count168
+\lst@pos=\count169
+\lst@lostspace=\dimen258
+\lst@width=\dimen259
+\lst@newlines=\count170
+\lst@lineno=\count171
+\lst@maxwidth=\dimen260
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count172
+\lst@skipnumbers=\count173
+\lst@framebox=\box59
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen261
+\AM@pageheight=\dimen262
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box60
+\AM@global@opts=\toks48
+\AM@toc@title=\toks49
+\c@AM@survey=\count174
+\AM@templatesizebox=\box61
+)
+(./tutorial.aux
+
+LaTeX Warning: Label `lasttouch<1>' multiply defined.
+
+
+LaTeX Warning: Label `lasttouch' multiply defined.
+
+)
+\openout1 = `tutorial.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count175
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count176
+\nofMParguments=\count177
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count178
+\MPscratchDim=\dimen264
+\MPnumerator=\count179
+\makeMPintoPDFobject=\count180
+\everyMPtoPDFconversion=\toks51
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring ON on input line 24.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count181
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+
+(./tutorial.out) (./tutorial.out)
+\@outlinefile=\write5
+\openout5 = `tutorial.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
+4.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 24.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-bibliography-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-environment-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-months-dictionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-numbers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-theorem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 24.
+\c@lstlisting=\count182
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(./tutorial.nav)
+<images/AdvertisingTechWorkshop.pdf, id=109, 963.6pt x 542.025pt>
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
+28.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
+28.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+
+<images/AdvertisingTechWorkshop.pdf, id=112, page=1, 963.6pt x 542.025pt>
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 1>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
+t line 28.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 1>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
+t line 28.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 1>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
+t line 28.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 1>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
+t line 28.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 1>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
+t line 28.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+ [1
+
+ <./images/AdvertisingTechWorkshop.pdf>]
+Overfull \vbox (13.79993pt too high) detected at line 31
+ []
+
+[2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./tutorial.toc)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 35.
+
+[3
+
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 42.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [4
+
+] [5
+
+] <images/WanamakerQuote.png, id=205, 935.495pt x 596.2275pt>
+File: images/WanamakerQuote.png Graphic file (type png)
+
+<use images/WanamakerQuote.png>
+Package pdftex.def Info: images/WanamakerQuote.png used on input line 50.
+(pdftex.def)             Requested size: 363.20001pt x 231.48111pt.
+
+Overfull \vbox (26.4805pt too high) detected at line 50
+ []
+
+[6
+
+ <./images/WanamakerQuote.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 60--60
+[][]  
+ []
+
+[7
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 60--60
+[][]  
+ []
+
+[8
+
+] <images/incremental_sales.png, id=227, 519.9425pt x 340.27126pt>
+File: images/incremental_sales.png Graphic file (type png)
+
+<use images/incremental_sales.png>
+Package pdftex.def Info: images/incremental_sales.png used on input line 72.
+(pdftex.def)             Requested size: 239.00558pt x 156.41245pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 72--72
+[][]  
+ []
+
+[9
+
+ <./images/incremental_sales.png>]
+File: images/incremental_sales.png Graphic file (type png)
+ <use images/incremental_sales.png>
+Package pdftex.def Info: images/incremental_sales.png used on input line 72.
+(pdftex.def)             Requested size: 239.00558pt x 156.41245pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 72--72
+[][]  
+ []
+
+[10
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 88.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 88.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 88.
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
+ []
+
+[11
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
+ []
+
+[12
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
+ []
+
+[13
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
+ []
+
+[14
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[15
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[16
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[17
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[18
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[19
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
+[][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
+ []
+
+[20
+
+] [21
+
+] <images/target_display.png, id=302, 200.75pt x 170.6375pt>
+File: images/target_display.png Graphic file (type png)
+
+<use images/target_display.png>
+Package pdftex.def Info: images/target_display.png used on input line 135.
+(pdftex.def)             Requested size: 99.58464pt x 84.64937pt.
+
+<images/target_social.png, id=303, 309.155pt x 242.9075pt>
+File: images/target_social.png Graphic file (type png)
+
+<use images/target_social.png>
+Package pdftex.def Info: images/target_social.png used on input line 135.
+(pdftex.def)             Requested size: 99.58464pt x 78.24347pt.
+
+<images/target_email.jpg, id=304, 566.115pt x 714.67pt>
+File: images/target_email.jpg Graphic file (type jpg)
+
+<use images/target_email.jpg>
+Package pdftex.def Info: images/target_email.jpg used on input line 135.
+(pdftex.def)             Requested size: 99.58464pt x 125.71251pt.
+
+<images/target_direct.jpeg, id=305, 272.01625pt x 186.6975pt>
+File: images/target_direct.jpeg Graphic file (type jpg)
+
+<use images/target_direct.jpeg>
+Package pdftex.def Info: images/target_direct.jpeg used on input line 135.
+(pdftex.def)             Requested size: 99.58464pt x 68.35056pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 135--135
+[][]  
+ []
+
+[22
+
+ <./images/target_display.png> <./images/target_social.png> <./images/target_em
+ail.jpg> <./images/target_direct.jpeg>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 145--145
+[][]  
+ []
+
+[23
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 145--145
+[][]  
+ []
+
+[24
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 154--154
+[][]  
+ []
+
+[25
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 166--166
+[][]  
+ []
+
+[26
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 184--184
+[][]  
+ []
+
+[27
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 201--201
+[][]  
+ []
+
+[28
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 213--213
+[][]  
+ []
+
+[29
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 231--231
+[][]  
+ []
+
+[30
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+[][]  
+ []
+
+[31
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 256--256
+[][]  
+ []
+
+[32
+
+] <images/cadence.png, id=374, 602.25pt x 250.9375pt>
+File: images/cadence.png Graphic file (type png)
+
+<use images/cadence.png>
+Package pdftex.def Info: images/cadence.png used on input line 266.
+(pdftex.def)             Requested size: 338.59023pt x 141.08307pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 266--266
+[][]  
+ []
+
+
+Overfull \vbox (13.93494pt too high) detected at line 266
+ []
+
+[33
+
+ <./images/cadence.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+<images/histimpressions.png, id=380, 481.8pt x 301.125pt>
+File: images/histimpressions.png Graphic file (type png)
+
+<use images/histimpressions.png>
+Package pdftex.def Info: images/histimpressions.png used on input line 8.
+(pdftex.def)             Requested size: 185.18848pt x 115.74055pt.
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 278--278
+[][]  
+ []
+
+
+Overfull \vbox (12.91989pt too high) detected at line 278
+ []
+
+[34
+
+ <./images/histimpressions.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 288--288
+[][]  
+ []
+
+[35
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 302--302
+[][]  
+ []
+
+[36
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (14.77055pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.57033pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][]
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 6--7
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 8--9
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 316--316
+[][]  
+ []
+
+[37
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 334--334
+[][]  
+ []
+
+[38
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb <images/transbyday.png, id=410, 602.25pt x 250.9375pt>
+File: images/transbyday.png Graphic file (type png)
+
+<use images/transbyday.png>
+Package pdftex.def Info: images/transbyday.png used on input line 6.
+(pdftex.def)             Requested size: 333.35213pt x 138.89008pt.
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 344--344
+[][]  
+ []
+
+
+Overfull \vbox (4.4001pt too high) detected at line 344
+ []
+
+[39
+
+ <./images/transbyday.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (30.07089pt too wide) in paragraph at lines 3--4
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+<images/histtrans.png, id=417, 481.8pt x 301.125pt>
+File: images/histtrans.png Graphic file (type png)
+ <use images/histtrans.png>
+Package pdftex.def Info: images/histtrans.png used on input line 7.
+(pdftex.def)             Requested size: 185.18848pt x 115.74055pt.
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 355--355
+[][]  
+ []
+
+[40
+
+ <./images/histtrans.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 372--372
+[][]  
+ []
+
+[41
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 396--396
+[][]  
+ []
+
+
+Overfull \vbox (8.78722pt too high) detected at line 396
+ []
+
+[42
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 409--409
+[][]  
+ []
+
+[43
+
+] [44
+
+] [45
+
+] <images/lasttouch.png, id=454, 481.8pt x 301.125pt>
+File: images/lasttouch.png Graphic file (type png)
+
+<use images/lasttouch.png>
+Package pdftex.def Info: images/lasttouch.png used on input line 423.
+(pdftex.def)             Requested size: 318.68002pt x 199.1693pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 423--423
+[][]  
+ []
+
+
+Overfull \vbox (92.64618pt too high) detected at line 423
+ []
+
+[46
+
+ <./images/lasttouch.png>]
+File: images/lasttouch.png Graphic file (type png)
+ <use images/lasttouch.png>
+Package pdftex.def Info: images/lasttouch.png used on input line 423.
+(pdftex.def)             Requested size: 318.68002pt x 199.1693pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 423--423
+[][]  
+ []
+
+
+Overfull \vbox (92.64618pt too high) detected at line 423
+ []
+
+[47
+
+] [48
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 440--440
+[][]  
+ []
+
+[49
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 453--453
+[][]  
+ []
+
+[50
+
+]
+File: images/lasttouch.png Graphic file (type png)
+ <use images/lasttouch.png>
+Package pdftex.def Info: images/lasttouch.png used on input line 460.
+(pdftex.def)             Requested size: 199.1693pt x 124.4775pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 460--460
+[][]  
+ []
+
+[51
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 471--471
+[][]  
+ []
+
+[52
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (6.28822pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<images/lastclick.png, id=499, 481.8pt x 301.125pt>
+File: images/lastclick.png Graphic file (type png)
+ <use images/lastclick.png>
+Package pdftex.def Info: images/lastclick.png used on input line 15.
+(pdftex.def)             Requested size: 139.42093pt x 87.13562pt.
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 490--490
+[][]  
+ []
+
+[53
+
+ <./images/lastclick.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 513--513
+[][]  
+ []
+
+[54
+
+] [55
+
+]pdfTeX warning (ext4): destination with the same identifier (name{lasttouch<1>
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 \againframe{lasttouch}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{lasttouch}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 \againframe{lasttouch}
+                            
+File: images/lasttouch.png Graphic file (type png)
+ <use images/lasttouch.png>
+Package pdftex.def Info: images/lasttouch.png used on input line 517.
+(pdftex.def)             Requested size: 199.1693pt x 124.4775pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 517--517
+[][]  
+ []
+
+[56
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
+[][]  
+ []
+
+[57
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
+[][]  
+ []
+
+[58
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
+[][]  
+ []
+
+[59
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
+[][]  
+ []
+
+[60
+
+] <images/pathtopurchase.png, id=545, 1051.93pt x 358.33875pt>
+File: images/pathtopurchase.png Graphic file (type png)
+
+<use images/pathtopurchase.png>
+Package pdftex.def Info: images/pathtopurchase.png used on input line 538.
+(pdftex.def)             Requested size: 318.67209pt x 108.55226pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 538--538
+[][]  
+ []
+
+[61
+
+ <./images/pathtopurchase.png>]
+<images/google-attribution-modeling-tool.jpg, id=554, 482.80376pt x 224.84pt>
+File: images/google-attribution-modeling-tool.jpg Graphic file (type jpg)
+
+<use images/google-attribution-modeling-tool.jpg>
+Package pdftex.def Info: images/google-attribution-modeling-tool.jpg used on in
+put line 548.
+(pdftex.def)             Requested size: 198.82013pt x 92.59102pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 548--548
+[][]  
+ []
+
+[62
+
+ <./images/google-attribution-modeling-tool.jpg>]
+File: images/google-attribution-modeling-tool.jpg Graphic file (type jpg)
+
+<use images/google-attribution-modeling-tool.jpg>
+Package pdftex.def Info: images/google-attribution-modeling-tool.jpg used on in
+put line 548.
+(pdftex.def)             Requested size: 198.82013pt x 92.59102pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 548--548
+[][]  
+ []
+
+[63
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 557--557
+[][]  
+ []
+
+[64
+
+] <images/lastclickdead.png, id=572, 691.58376pt x 301.125pt>
+File: images/lastclickdead.png Graphic file (type png)
+
+<use images/lastclickdead.png>
+Package pdftex.def Info: images/lastclickdead.png used on input line 564.
+(pdftex.def)             Requested size: 372.15167pt x 162.03606pt.
+ [65
+
+ <./images/lastclickdead.png>]
+<images/attribution360.png, id=580, 418.56375pt x 367.3725pt>
+File: images/attribution360.png Graphic file (type png)
+
+<use images/attribution360.png>
+Package pdftex.def Info: images/attribution360.png used on input line 573.
+(pdftex.def)             Requested size: 131.86743pt x 115.74055pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 573--573
+[][]  
+ []
+
+
+Overfull \vbox (11.51736pt too high) detected at line 573
+ []
+
+[66
+
+ <./images/attribution360.png>] [67
+
+] [68
+
+]
+<images/test_control.png, id=604, 803.0pt x 192.72pt>
+File: images/test_control.png Graphic file (type png)
+
+<use images/test_control.png>
+Package pdftex.def Info: images/test_control.png used on input line 586.
+(pdftex.def)             Requested size: 318.67209pt x 76.48378pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 586--586
+[][]  
+ []
+
+[69
+
+ <./images/test_control.png (PNG copy)>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 592--592
+[][]  
+ []
+
+[70
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 592--592
+[][]  
+ []
+
+[71
+
+] [72
+
+]
+File: images/cadence.png Graphic file (type png)
+ <use images/cadence.png>
+Package pdftex.def Info: images/cadence.png used on input line 601.
+(pdftex.def)             Requested size: 338.59023pt x 141.08307pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 601--601
+[][]  
+ []
+
+[73
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 621--621
+[][]  
+ []
+
+[74
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 647--647
+[][]  
+ []
+
+[75
+
+] <images/test1.jpeg, id=645, 481.8pt x 481.8pt>
+File: images/test1.jpeg Graphic file (type jpg)
+ <use images/test1.jpeg>
+Package pdftex.def Info: images/test1.jpeg used on input line 658.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 658--658
+[][]  
+ []
+
+[76
+
+ <./images/test1.jpeg>]
+File: images/test1.jpeg Graphic file (type jpg)
+ <use images/test1.jpeg>
+Package pdftex.def Info: images/test1.jpeg used on input line 658.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 658--658
+[][]  
+ []
+
+[77
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (3.29547pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 682--682
+[][]  
+ []
+
+[78
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 690--690
+[][]  
+ []
+
+[79
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 690--690
+[][]  
+ []
+
+[80
+
+] <images/adresponseovertime.png, id=672, 722.7pt x 406.51875pt>
+File: images/adresponseovertime.png Graphic file (type png)
+
+<use images/adresponseovertime.png>
+Package pdftex.def Info: images/adresponseovertime.png used on input line 698.
+(pdftex.def)             Requested size: 288.06035pt x 162.03606pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 698--698
+[][]  
+ []
+
+
+Overfull \vbox (13.41309pt too high) detected at line 698
+ []
+
+[81
+
+ <./images/adresponseovertime.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 713--713
+[][]  
+ []
+
+[82
+
+] <images/emailtestovertime.png, id=685, 481.8pt x 361.35pt>
+File: images/emailtestovertime.png Graphic file (type png)
+
+<use images/emailtestovertime.png>
+Package pdftex.def Info: images/emailtestovertime.png used on input line 720.
+(pdftex.def)             Requested size: 216.05077pt x 162.03606pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 720--720
+[][]  
+ []
+
+
+Overfull \vbox (10.28807pt too high) detected at line 720
+ []
+
+[83
+
+ <./images/emailtestovertime.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 732--732
+[][]  
+ []
+
+[84
+
+] [85
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 755--755
+[][]  
+ []
+
+[86
+
+] [87
+
+] <images/johnsonetaltest.png, id=719, 573.14125pt x 326.21875pt>
+File: images/johnsonetaltest.png Graphic file (type png)
+
+<use images/johnsonetaltest.png>
+Package pdftex.def Info: images/johnsonetaltest.png used on input line 772.
+(pdftex.def)             Requested size: 119.50279pt x 68.01515pt.
+
+<images/johnsonetalcontrol.png, id=720, 375.4025pt x 313.17pt>
+File: images/johnsonetalcontrol.png Graphic file (type png)
+
+<use images/johnsonetalcontrol.png>
+Package pdftex.def Info: images/johnsonetalcontrol.png used on input line 772.
+(pdftex.def)             Requested size: 119.50279pt x 99.6908pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 772--772
+[][]  
+ []
+
+[88
+
+ <./images/johnsonetaltest.png> <./images/johnsonetalcontrol.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
+[][]  
+ []
+
+
+Overfull \vbox (11.05121pt too high) detected at line 797
+ []
+
+[89
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
+[][]  
+ []
+
+
+Overfull \vbox (11.05121pt too high) detected at line 797
+ []
+
+[90
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
+[][]  
+ []
+
+
+Overfull \vbox (11.05121pt too high) detected at line 797
+ []
+
+[91
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
+[][]  
+ []
+
+
+Overfull \vbox (11.05121pt too high) detected at line 797
+ []
+
+[92
+
+]
+<images/johnsonetalrandomizationcheck.png, id=755, 593.21625pt x 320.19624pt>
+File: images/johnsonetalrandomizationcheck.png Graphic file (type png)
+
+<use images/johnsonetalrandomizationcheck.png>
+Package pdftex.def Info: images/johnsonetalrandomizationcheck.png used on input
+ line 807.
+(pdftex.def)             Requested size: 171.5395pt x 92.59102pt.
+
+<images/johnsonetalrandomizationcheck2.png, id=756, 401.5pt x 303.1325pt>
+File: images/johnsonetalrandomizationcheck2.png Graphic file (type png)
+
+<use images/johnsonetalrandomizationcheck2.png>
+Package pdftex.def Info: images/johnsonetalrandomizationcheck2.png used on inpu
+t line 807.
+(pdftex.def)             Requested size: 122.63805pt x 92.59102pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 807--807
+[][]  
+ []
+
+
+Overfull \vbox (7.96509pt too high) detected at line 807
+ []
+
+[93
+
+ <./images/johnsonetalrandomizationcheck.png> <./images/johnsonetalrandomizatio
+ncheck2.png>] <images/johnsonetalresult.png, id=765, 385.44pt x 182.6825pt>
+File: images/johnsonetalresult.png Graphic file (type png)
+
+<use images/johnsonetalresult.png>
+Package pdftex.def Info: images/johnsonetalresult.png used on input line 815.
+(pdftex.def)             Requested size: 244.19884pt x 115.74055pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 815--815
+[][]  
+ []
+
+[94
+
+ <./images/johnsonetalresult.png>] [95
+
+]
+<images/gordonetaltreatmentcontrol2.png, id=781, 714.67pt x 286.06876pt>
+File: images/gordonetaltreatmentcontrol2.png Graphic file (type png)
+
+<use images/gordonetaltreatmentcontrol2.png>
+Package pdftex.def Info: images/gordonetaltreatmentcontrol2.png used on input l
+ine 826.
+(pdftex.def)             Requested size: 289.14532pt x 115.74055pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 826--826
+[][]  
+ []
+
+
+Overfull \vbox (13.51736pt too high) detected at line 826
+ []
+
+[96
+
+ <./images/gordonetaltreatmentcontrol2.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
+[][]  
+ []
+
+[97
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
+[][]  
+ []
+
+[98
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
+[][]  
+ []
+
+[99
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
+[][]  
+ []
+
+[100
+
+]
+File: images/gordonetaltreatmentcontrol2.png Graphic file (type png)
+ <use images/gordonetaltreatmentcontrol2.png>
+Package pdftex.def Info: images/gordonetaltreatmentcontrol2.png used on input l
+ine 858.
+(pdftex.def)             Requested size: 289.14532pt x 115.74055pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 858--858
+[][]  
+ []
+
+
+Overfull \vbox (16.4618pt too high) detected at line 858
+ []
+
+[101
+
+]
+<images/gordonetalrandomizationcheck.png, id=818, 595.22375pt x 272.01625pt>
+File: images/gordonetalrandomizationcheck.png Graphic file (type png)
+
+<use images/gordonetalrandomizationcheck.png>
+Package pdftex.def Info: images/gordonetalrandomizationcheck.png used on input 
+line 867.
+(pdftex.def)             Requested size: 303.93248pt x 138.89008pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 867--867
+[][]  
+ []
+
+[102
+
+ <./images/gordonetalrandomizationcheck.png>]
+<images/gordonetalresult.png, id=826, 662.475pt x 342.27875pt>
+File: images/gordonetalresult.png Graphic file (type png)
+
+<use images/gordonetalresult.png>
+Package pdftex.def Info: images/gordonetalresult.png used on input line 875.
+(pdftex.def)             Requested size: 268.82655pt x 138.89008pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 875--875
+[][]  
+ []
+
+
+Overfull \vbox (5.06703pt too high) detected at line 875
+ []
+
+[103
+
+ <./images/gordonetalresult.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 887--887
+[][]  
+ []
+
+[104
+
+] <images/FacebookCampaignLift2.png, id=841, 1186.4325pt x 820.06375pt>
+File: images/FacebookCampaignLift2.png Graphic file (type png)
+
+<use images/FacebookCampaignLift2.png>
+Package pdftex.def Info: images/FacebookCampaignLift2.png used on input line 89
+2.
+(pdftex.def)             Requested size: 401.87912pt x 277.77661pt.
+
+Overfull \hbox (3.54053pt too wide) in paragraph at lines 892--892
+ [][] 
+ []
+
+
+Overfull \vbox (47.2955pt too high) detected at line 892
+ []
+
+[105
+
+ <./images/FacebookCampaignLift2.png (PNG copy)>] [106
+
+]
+<images/lespaul.png, id=856, 603.25375pt x 583.17876pt>
+File: images/lespaul.png Graphic file (type png)
+
+<use images/lespaul.png>
+Package pdftex.def Info: images/lespaul.png used on input line 906.
+(pdftex.def)             Requested size: 191.55394pt x 185.1856pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 906--906
+[][]  
+ []
+
+
+Overfull \vbox (1.81825pt too high) detected at line 906
+ []
+
+[107
+
+ <./images/lespaul.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
+[][]  
+ []
+
+[108
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
+[][]  
+ []
+
+[109
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
+[][]  
+ []
+
+[110
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
+[][]  
+ []
+
+[111
+
+] <images/blakeetalresult.png, id=890, 542.025pt x 396.48125pt>
+File: images/blakeetalresult.png Graphic file (type png)
+
+<use images/blakeetalresult.png>
+Package pdftex.def Info: images/blakeetalresult.png used on input line 941.
+(pdftex.def)             Requested size: 199.1693pt x 145.68544pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 941--941
+[][]  
+ []
+
+[112
+
+ <./images/blakeetalresult.png>]
+<images/blakeetallasttouch.png, id=898, 556.0775pt x 413.545pt>
+File: images/blakeetallasttouch.png Graphic file (type png)
+
+<use images/blakeetallasttouch.png>
+Package pdftex.def Info: images/blakeetallasttouch.png used on input line 955.
+(pdftex.def)             Requested size: 179.25114pt x 133.30887pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 955--955
+[][]  
+ []
+
+[113
+
+ <./images/blakeetallasttouch.png>] [114
+
+] [115
+
+]
+File: images/cadence.png Graphic file (type png)
+ <use images/cadence.png>
+Package pdftex.def Info: images/cadence.png used on input line 967.
+(pdftex.def)             Requested size: 239.00558pt x 99.58444pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 967--967
+[][]  
+ []
+
+
+Overfull \vbox (3.59172pt too high) detected at line 967
+ []
+
+[116
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
+[][]  
+ []
+
+[117
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
+[][]  
+ []
+
+[118
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
+[][]  
+ []
+
+[119
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
+[][]  
+ []
+
+[120
+
+] [121
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 996--996
+[][]  
+ []
+
+[122
+
+]
+File: images/transbyday.png Graphic file (type png)
+ <use images/transbyday.png>
+Package pdftex.def Info: images/transbyday.png used on input line 1002.
+(pdftex.def)             Requested size: 398.3386pt x 165.97917pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1002--1002
+[][]  
+ []
+
+[123
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1021--1021
+[][]  
+ []
+
+[124
+
+]
+File: images/cadence.png Graphic file (type png)
+ <use images/cadence.png>
+Package pdftex.def Info: images/cadence.png used on input line 1027.
+(pdftex.def)             Requested size: 338.59023pt x 141.08307pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1027--1027
+[][]  
+ []
+
+[125
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (55.57146pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1041--1041
+[][]  
+ []
+
+[126
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1055--1055
+[][]  
+ []
+
+[127
+
+] <images/mixmodeldisplavtrans.png, id=988, 481.8pt x 481.8pt>
+File: images/mixmodeldisplavtrans.png Graphic file (type png)
+
+<use images/mixmodeldisplavtrans.png>
+Package pdftex.def Info: images/mixmodeldisplavtrans.png used on input line 106
+0.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+<images/mixmodelsocialvtrans.png, id=989, 481.8pt x 481.8pt>
+File: images/mixmodelsocialvtrans.png Graphic file (type png)
+
+<use images/mixmodelsocialvtrans.png>
+Package pdftex.def Info: images/mixmodelsocialvtrans.png used on input line 106
+0.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1060--1060
+[][]  
+ []
+
+[128
+
+ <./images/mixmodeldisplavtrans.png> <./images/mixmodelsocialvtrans.png>]
+<images/mixmodelemailvtrans.png, id=997, 481.8pt x 481.8pt>
+File: images/mixmodelemailvtrans.png Graphic file (type png)
+
+<use images/mixmodelemailvtrans.png>
+Package pdftex.def Info: images/mixmodelemailvtrans.png used on input line 1065
+.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+<images/mixmodeldirectvtrans.png, id=998, 481.8pt x 481.8pt>
+File: images/mixmodeldirectvtrans.png Graphic file (type png)
+
+<use images/mixmodeldirectvtrans.png>
+Package pdftex.def Info: images/mixmodeldirectvtrans.png used on input line 106
+5.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1065--1065
+[][]  
+ []
+
+[129
+
+ <./images/mixmodelemailvtrans.png> <./images/mixmodeldirectvtrans.png>]
+\openout4 = `tutorial.vrb'.
+
+
+(./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1088--1088
+[][]  
+ []
+
+[130
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
+[][]  
+ []
+
+[131
+
+] (./tutorial.vrb
+Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
+[][]  
+ []
+
+[132
+
+] (./tutorial.vrb
+Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
+[][]  
+ []
+
+[133
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1137--1137
+[][]  
+ []
+
+[134
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1178--1178
+[][]  
+ []
+
+
+Overfull \vbox (9.87666pt too high) detected at line 1178
+ []
+
+[135
+
+] (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1178--1178
+[][]  
+ []
+
+
+Overfull \vbox (9.87666pt too high) detected at line 1178
+ []
+
+[136
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
+[][]  
+ []
+
+[137
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
+[][]  
+ []
+
+[138
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
+[][]  
+ []
+
+[139
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
+[][]  
+ []
+
+[140
+
+] <images/exponential-decay.png, id=1063, 368.87813pt x 322.20375pt>
+File: images/exponential-decay.png Graphic file (type png)
+
+<use images/exponential-decay.png>
+Package pdftex.def Info: images/exponential-decay.png used on input line 1204.
+(pdftex.def)             Requested size: 159.333pt x 139.1693pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1204--1204
+[][]  
+ []
+
+[141
+
+ <./images/exponential-decay.png>]
+File: images/exponential-decay.png Graphic file (type png)
+ <use images/exponential-decay.png>
+Package pdftex.def Info: images/exponential-decay.png used on input line 1204.
+(pdftex.def)             Requested size: 159.333pt x 139.1693pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1204--1204
+[][]  
+ []
+
+[142
+
+]
+File: images/adresponseovertime.png Graphic file (type png)
+ <use images/adresponseovertime.png>
+Package pdftex.def Info: images/adresponseovertime.png used on input line 1212.
+
+(pdftex.def)             Requested size: 239.00558pt x 134.43694pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1212--1212
+[][]  
+ []
+
+
+Overfull \vbox (13.41382pt too high) detected at line 1212
+ []
+
+[143
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1223--1223
+[][]  
+ []
+
+[144
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1245--1245
+[][]  
+ []
+
+[145
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1254--1254
+[][]  
+ []
+
+[146
+
+] <images/mixmodelemailstock.png, id=1097, 602.25pt x 401.5pt>
+File: images/mixmodelemailstock.png Graphic file (type png)
+
+<use images/mixmodelemailstock.png>
+Package pdftex.def Info: images/mixmodelemailstock.png used on input line 1260.
+
+(pdftex.def)             Requested size: 278.83578pt x 185.89912pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1260--1260
+[][]  
+ []
+
+[147
+
+ <./images/mixmodelemailstock.png>]
+<images/mixmodeldirectstock.png, id=1104, 602.25pt x 401.5pt>
+File: images/mixmodeldirectstock.png Graphic file (type png)
+
+<use images/mixmodeldirectstock.png>
+Package pdftex.def Info: images/mixmodeldirectstock.png used on input line 1266
+.
+(pdftex.def)             Requested size: 278.83578pt x 185.89912pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1266--1266
+[][]  
+ []
+
+[148
+
+ <./images/mixmodeldirectstock.png>]
+<images/mixmodeldisplaystock.png, id=1111, 602.25pt x 401.5pt>
+File: images/mixmodeldisplaystock.png Graphic file (type png)
+
+<use images/mixmodeldisplaystock.png>
+Package pdftex.def Info: images/mixmodeldisplaystock.png used on input line 127
+2.
+(pdftex.def)             Requested size: 278.83578pt x 185.89912pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1272--1272
+[][]  
+ []
+
+[149
+
+ <./images/mixmodeldisplaystock.png>]
+<images/mixmodelsocialstock.png, id=1118, 602.25pt x 401.5pt>
+File: images/mixmodelsocialstock.png Graphic file (type png)
+
+<use images/mixmodelsocialstock.png>
+Package pdftex.def Info: images/mixmodelsocialstock.png used on input line 1278
+.
+(pdftex.def)             Requested size: 278.83578pt x 185.89912pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1278--1278
+[][]  
+ []
+
+[150
+
+ <./images/mixmodelsocialstock.png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1287--1287
+[][]  
+ []
+
+[151
+
+] <images/mixmodelemailstockvtrans.png, id=1131, 481.8pt x 481.8pt>
+File: images/mixmodelemailstockvtrans.png Graphic file (type png)
+
+<use images/mixmodelemailstockvtrans.png>
+Package pdftex.def Info: images/mixmodelemailstockvtrans.png used on input line
+ 1292.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+<images/mixmodeldirectstockvtrans.png, id=1132, 481.8pt x 481.8pt>
+File: images/mixmodeldirectstockvtrans.png Graphic file (type png)
+
+<use images/mixmodeldirectstockvtrans.png>
+Package pdftex.def Info: images/mixmodeldirectstockvtrans.png used on input lin
+e 1292.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1292--1292
+[][]  
+ []
+
+[152
+
+ <./images/mixmodelemailstockvtrans.png> <./images/mixmodeldirectstockvtrans.pn
+g>] <images/mixmodeldisplaystockvtrans.png, id=1140, 481.8pt x 481.8pt>
+File: images/mixmodeldisplaystockvtrans.png Graphic file (type png)
+
+<use images/mixmodeldisplaystockvtrans.png>
+Package pdftex.def Info: images/mixmodeldisplaystockvtrans.png used on input li
+ne 1297.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+<images/mixmodelsocialstockvtrans.png, id=1141, 481.8pt x 481.8pt>
+File: images/mixmodelsocialstockvtrans.png Graphic file (type png)
+
+<use images/mixmodelsocialstockvtrans.png>
+Package pdftex.def Info: images/mixmodelsocialstockvtrans.png used on input lin
+e 1297.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1297--1297
+[][]  
+ []
+
+[153
+
+ <./images/mixmodeldisplaystockvtrans.png> <./images/mixmodelsocialstockvtrans.
+png>]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (116.77281pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1319--1319
+[][]  
+ []
+
+[154
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1358--1358
+[][]  
+ []
+
+
+Overfull \vbox (30.57655pt too high) detected at line 1358
+ []
+
+[155
+
+] (./tutorial.vrb
+Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1358--1358
+[][]  
+ []
+
+
+Overfull \vbox (30.57655pt too high) detected at line 1358
+ []
+
+[156
+
+] (./tutorial.vrb
+Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1358--1358
+[][]  
+ []
+
+
+Overfull \vbox (30.57655pt too high) detected at line 1358
+ []
+
+[157
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1375--1375
+[][]  
+ []
+
+[158
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1385--1385
+[][]  
+ []
+
+[159
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1385--1385
+[][]  
+ []
+
+[160
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 13--14
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1409--1409
+[][]  
+ []
+
+
+Overfull \vbox (8.78722pt too high) detected at line 1409
+ []
+
+[161
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1424--1424
+[][]  
+ []
+
+[162
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1424--1424
+[][]  
+ []
+
+[163
+
+] <images/sshapedadresponse.png, id=1202, 275.0275pt x 214.8025pt>
+File: images/sshapedadresponse.png Graphic file (type png)
+
+<use images/sshapedadresponse.png>
+Package pdftex.def Info: images/sshapedadresponse.png used on input line 1439.
+(pdftex.def)             Requested size: 199.1693pt x 155.55902pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1439--1439
+[][]  
+ []
+
+[164
+
+ <./images/sshapedadresponse.png>]
+File: images/adresponseovertime.png Graphic file (type png)
+ <use images/adresponseovertime.png>
+Package pdftex.def Info: images/adresponseovertime.png used on input line 1447.
+
+(pdftex.def)             Requested size: 278.83578pt x 156.84206pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1447--1447
+[][]  
+ []
+
+
+Overfull \vbox (22.01901pt too high) detected at line 1447
+ []
+
+[165
+
+] <images/littleprincipals.png, id=1216, 558.085pt x 220.825pt>
+File: images/littleprincipals.png Graphic file (type png)
+
+<use images/littleprincipals.png>
+Package pdftex.def Info: images/littleprincipals.png used on input line 1453.
+(pdftex.def)             Requested size: 398.3386pt x 157.61911pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1453--1453
+[][]  
+ []
+
+
+Overfull \vbox (13.79607pt too high) detected at line 1453
+ []
+
+[166
+
+ <./images/littleprincipals.png>] [167
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
+[][]  
+ []
+
+[168
+
+] (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
+[][]  
+ []
+
+[169
+
+] (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
+[][]  
+ []
+
+[170
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1475--1475
+[][]  
+ []
+
+[171
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1475--1475
+[][]  
+ []
+
+[172
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1487--1487
+[][]  
+ []
+
+[173
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1487--1487
+[][]  
+ []
+
+[174
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1495--1495
+[][]  
+ []
+
+[175
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
+[][]  
+ []
+
+[176
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
+[][]  
+ []
+
+[177
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
+[][]  
+ []
+
+[178
+
+] [179
+
+] [180
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1521--1521
+[][]  
+ []
+
+[181
+
+] [182
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1539--1539
+[][]  
+ []
+
+[183
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1559--1559
+[][]  
+ []
+
+[184
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1586--1586
+[][]  
+ []
+
+[185
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1607--1607
+[][]  
+ []
+
+[186
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1627--1627
+[][]  
+ []
+
+[187
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1641--1641
+[][]  
+ []
+
+[188
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1669--1669
+[][]  
+ []
+
+[189
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1690--1690
+[][]  
+ []
+
+[190
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (4.57033pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (14.77055pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.67044pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.67044pt too wide) in paragraph at lines 8--9
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (19.87067pt too wide) in paragraph at lines 9--10
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.57033pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (14.77055pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1704--1704
+[][]  
+ []
+
+[191
+
+] <images/attribmodelemailvtrans.png, id=1364, 481.8pt x 481.8pt>
+File: images/attribmodelemailvtrans.png Graphic file (type png)
+
+<use images/attribmodelemailvtrans.png>
+Package pdftex.def Info: images/attribmodelemailvtrans.png used on input line 1
+710.
+(pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
+
+<images/attribmodeldirectvtrans.png, id=1365, 481.8pt x 481.8pt>
+File: images/attribmodeldirectvtrans.png Graphic file (type png)
+
+<use images/attribmodeldirectvtrans.png>
+Package pdftex.def Info: images/attribmodeldirectvtrans.png used on input line 
+1710.
+(pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1710--1710
+[][]  
+ []
+
+
+Overfull \vbox (7.5559pt too high) detected at line 1710
+ []
+
+[192
+
+ <./images/attribmodelemailvtrans.png> <./images/attribmodeldirectvtrans.png>] 
+<images/attribmodeldisplayvtrans.png, id=1373, 481.8pt x 481.8pt>
+File: images/attribmodeldisplayvtrans.png Graphic file (type png)
+
+<use images/attribmodeldisplayvtrans.png>
+Package pdftex.def Info: images/attribmodeldisplayvtrans.png used on input line
+ 1715.
+(pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
+
+<images/attribmodelsocialvtrans.png, id=1374, 481.8pt x 481.8pt>
+File: images/attribmodelsocialvtrans.png Graphic file (type png)
+
+<use images/attribmodelsocialvtrans.png>
+Package pdftex.def Info: images/attribmodelsocialvtrans.png used on input line 
+1715.
+(pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1715--1715
+[][]  
+ []
+
+[193
+
+ <./images/attribmodeldisplayvtrans.png> <./images/attribmodelsocialvtrans.png>
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1736--1736
+[][]  
+ []
+
+[194
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1764--1764
+[][]  
+ []
+
+[195
+
+] (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1764--1764
+[][]  
+ []
+
+[196
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (14.77055pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1786--1786
+[][]  
+ []
+
+[197
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1817--1817
+[][]  
+ []
+
+
+Overfull \vbox (11.9067pt too high) detected at line 1817
+ []
+
+[198
+
+] (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1817--1817
+[][]  
+ []
+
+
+Overfull \vbox (11.9067pt too high) detected at line 1817
+ []
+
+[199
+
+] (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1817--1817
+[][]  
+ []
+
+
+Overfull \vbox (11.9067pt too high) detected at line 1817
+ []
+
+[200
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1823--1823
+[][]  
+ []
+
+[201
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1823--1823
+[][]  
+ []
+
+[202
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1851--1851
+[][]  
+ []
+
+
+Overfull \vbox (46.33395pt too high) detected at line 1851
+ []
+
+[203
+
+]
+\openout4 = `tutorial.vrb'.
+
+ (./tutorial.vrb
+Overfull \hbox (4.04291pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1885--1885
+[][]  
+ []
+
+[204
+
+] (./tutorial.vrb
+Overfull \hbox (4.04291pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1885--1885
+[][]  
+ []
+
+[205
+
+] [206
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
+[][]  
+ []
+
+[207
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
+[][]  
+ []
+
+[208
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1925--1925
+[][]  
+ []
+
+[209
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1925--1925
+[][]  
+ []
+
+[210
+
+]
+File: images/adresponseovertime.png Graphic file (type png)
+ <use images/adresponseovertime.png>
+Package pdftex.def Info: images/adresponseovertime.png used on input line 1933.
+
+(pdftex.def)             Requested size: 239.00558pt x 134.43694pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1933--1933
+[][]  
+ []
+
+[211
+
+] <images/ad_stock_over_time.png, id=1481, 289.08pt x 174.15062pt>
+File: images/ad_stock_over_time.png Graphic file (type png)
+
+<use images/ad_stock_over_time.png>
+Package pdftex.def Info: images/ad_stock_over_time.png used on input line 1951.
+
+(pdftex.def)             Requested size: 199.1693pt x 119.98601pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1951--1951
+[][]  
+ []
+
+[212
+
+ <./images/ad_stock_over_time.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1961--1961
+[][]  
+ []
+
+[213
+
+] [214
+
+] <images/Subscribe.jpeg, id=1507, 580.569pt x 589.2414pt>
+File: images/Subscribe.jpeg Graphic file (type jpg)
+
+<use images/Subscribe.jpeg>
+Package pdftex.def Info: images/Subscribe.jpeg used on input line 1990.
+(pdftex.def)             Requested size: 59.74835pt x 60.6359pt.
+
+<images/Catalog_Icon.jpg, id=1508, 272.01625pt x 213.79875pt>
+File: images/Catalog_Icon.jpg Graphic file (type jpg)
+
+<use images/Catalog_Icon.jpg>
+Package pdftex.def Info: images/Catalog_Icon.jpg used on input line 1990.
+(pdftex.def)             Requested size: 71.69783pt x 56.353pt.
+
+Overfull \hbox (11.94948pt too wide) in paragraph at lines 1990--1990
+ [][] 
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1990--1990
+[][]  
+ []
+
+[215
+
+ <./images/Subscribe.jpeg> <./images/Catalog_Icon.jpg>]
+File: images/Subscribe.jpeg Graphic file (type jpg)
+
+<use images/Subscribe.jpeg>
+Package pdftex.def Info: images/Subscribe.jpeg used on input line 1990.
+(pdftex.def)             Requested size: 59.74835pt x 60.6359pt.
+File: images/Catalog_Icon.jpg Graphic file (type jpg)
+ <use images/Catalog_Icon.jpg>
+Package pdftex.def Info: images/Catalog_Icon.jpg used on input line 1990.
+(pdftex.def)             Requested size: 71.69783pt x 56.353pt.
+
+Overfull \hbox (11.94948pt too wide) in paragraph at lines 1990--1990
+ [][] 
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1990--1990
+[][]  
+ []
+
+[216
+
+] <images/campaigns_by_day.pdf, id=1525, 433.62pt x 289.08pt>
+File: images/campaigns_by_day.pdf Graphic file (type pdf)
+
+<use images/campaigns_by_day.pdf>
+Package pdftex.def Info: images/campaigns_by_day.pdf used on input line 2004.
+(pdftex.def)             Requested size: 173.61034pt x 115.74055pt.
+
+<images/sales_by_day.pdf, id=1526, 433.62pt x 289.08pt>
+File: images/sales_by_day.pdf Graphic file (type pdf)
+
+<use images/sales_by_day.pdf>
+Package pdftex.def Info: images/sales_by_day.pdf used on input line 2004.
+(pdftex.def)             Requested size: 173.61034pt x 115.74055pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2004--2004
+[][]  
+ []
+
+
+Overfull \vbox (36.54431pt too high) detected at line 2004
+ []
+
+[217
+
+ <./images/campaigns_by_day.pdf> <./images/sales_by_day.pdf>]
+<images/cust_143.pdf, id=1547, 433.62pt x 289.08pt>
+File: images/cust_143.pdf Graphic file (type pdf)
+ <use images/cust_143.pdf>
+Package pdftex.def Info: images/cust_143.pdf used on input line 2010.
+(pdftex.def)             Requested size: 318.67209pt x 212.4602pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2010--2010
+[][]  
+ []
+
+
+Overfull \vbox (23.16792pt too high) detected at line 2010
+ []
+
+[218
+
+ <./images/cust_143.pdf>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2032--2032
+[][]  
+ []
+
+[219
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2044--2044
+[][]  
+ []
+
+[220
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
+[][]  
+ []
+
+[221
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
+[][]  
+ []
+
+[222
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
+[][]  
+ []
+
+[223
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
+[][]  
+ []
+
+[224
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
+[][]  
+ []
+
+[225
+
+] <images/CIR_CAT_EMAIL2.pdf, id=1601, 704.6325pt x 702.625pt>
+File: images/CIR_CAT_EMAIL2.pdf Graphic file (type pdf)
+
+<use images/CIR_CAT_EMAIL2.pdf>
+Package pdftex.def Info: images/CIR_CAT_EMAIL2.pdf used on input line 2083.
+(pdftex.def)             Requested size: 199.1693pt x 198.59914pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2083--2083
+[][]  
+ []
+
+
+Overfull \vbox (2.66234pt too high) detected at line 2083
+ []
+
+[226
+
+ <./images/CIR_CAT_EMAIL2.pdf>]
+<images/CIR_CUM_PLOT_2.pdf, id=1612, 959.585pt x 822.07124pt>
+File: images/CIR_CUM_PLOT_2.pdf Graphic file (type pdf)
+
+<use images/CIR_CUM_PLOT_2.pdf>
+Package pdftex.def Info: images/CIR_CUM_PLOT_2.pdf used on input line 2095.
+(pdftex.def)             Requested size: 199.1693pt x 170.6205pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2095--2095
+[][]  
+ []
+
+[227
+
+ <./images/CIR_CUM_PLOT_2.pdf>] [228
+
+]
+<images/searchad.png, id=1629, 923.45pt x 889.3225pt>
+File: images/searchad.png Graphic file (type png)
+
+<use images/searchad.png>
+Package pdftex.def Info: images/searchad.png used on input line 2110.
+(pdftex.def)             Requested size: 199.1693pt x 191.79768pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
+[][]  
+ []
+
+[229
+
+ <./images/searchad.png>]
+File: images/searchad.png Graphic file (type png)
+ <use images/searchad.png>
+Package pdftex.def Info: images/searchad.png used on input line 2110.
+(pdftex.def)             Requested size: 199.1693pt x 191.79768pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
+[][]  
+ []
+
+[230
+
+]
+File: images/searchad.png Graphic file (type png)
+ <use images/searchad.png>
+Package pdftex.def Info: images/searchad.png used on input line 2110.
+(pdftex.def)             Requested size: 199.1693pt x 191.79768pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
+[][]  
+ []
+
+[231
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2131--2131
+[][]  
+ []
+
+[232
+
+] <images/Chapman_and_Feit_Cover.jpg, id=1652, 199.2243pt x 302.3295pt>
+File: images/Chapman_and_Feit_Cover.jpg Graphic file (type jpg)
+
+<use images/Chapman_and_Feit_Cover.jpg>
+Package pdftex.def Info: images/Chapman_and_Feit_Cover.jpg used on input line 2
+142.
+(pdftex.def)             Requested size: 122.02823pt x 185.1856pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2142--2142
+[][]  
+ []
+
+[233
+
+ <./images/Chapman_and_Feit_Cover.jpg>] [234
+
+]
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
+2161.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
+2161.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+
+<images/AdvertisingTechWorkshop.pdf, id=1666, page=2, 963.6pt x 542.025pt>
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 2>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
+t line 2161.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 2>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
+t line 2161.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 2>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
+t line 2161.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 2>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
+t line 2161.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
+
+<use images/AdvertisingTechWorkshop.pdf, page 2>
+Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
+t line 2161.
+(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
+ [235
+
+ <./images/AdvertisingTechWorkshop.pdf>]
+\tf@nav=\write6
+\openout6 = `tutorial.nav'.
+
+\tf@toc=\write7
+\openout7 = `tutorial.toc'.
+
+\tf@snm=\write8
+\openout8 = `tutorial.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2164.
+ (./tutorial.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2164.
+
+
+
+Package rerunfilecheck Warning: File `tutorial.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `tutorial.out':
+(rerunfilecheck)             Before: B1A5739D0700F3C3F5BAB8E387298179;1760
+(rerunfilecheck)             After:  0A4606972DEB5FDBCA2B89E0E46E07B9;1763.
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2164.
+ ) 
+Here is how much of TeX's memory you used:
+ 24566 strings out of 493014
+ 470692 string characters out of 6133351
+ 644378 words of memory out of 5000000
+ 26868 multiletter control sequences out of 15000+600000
+ 15096 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,21n,97p,1807b,1698s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.5.4.159} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.5.3.153} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.5.2.134} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.5.1.132} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.3.125} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.2.90} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.1.87} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.6.81} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.5.73} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.4.68} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.3.66} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.2.55} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.1.52} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.3.43} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.2.36} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.1.34} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.2.11} has been referenced but does not e
+xist, replaced by a fixed one
+
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on tutorial.pdf (235 pages, 9640708 bytes).
+PDF statistics:
+ 1867 PDF objects out of 2073 (max. 8388607)
+ 1449 compressed objects within 15 object streams
+ 517 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+

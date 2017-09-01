@@ -1,0 +1,32 @@
+\frametitle{Logistic regression for attribution}
+\begin{columns}[t]
+\column{0.55\textwidth}
+\begin{lstlisting}[basicstyle=\tiny\ttfamily]
+> m3 <- glm(trans ~ direct + display + email + social + past.purchase,
++           family=binomial(), data=adata)
+> summary(m3)
+...
+Coefficients:
+               Estimate Std. Error  z value            Pr(>|z|)
+(Intercept)   -4.022893   0.014013 -287.078 <0.0000000000000002 ***
+direct         0.412554   0.041688    9.896 <0.0000000000000002 ***
+display        0.100630   0.006581   15.291 <0.0000000000000002 ***
+email          0.762355   0.020010   38.099 <0.0000000000000002 ***
+social         0.180079   0.005356   33.621 <0.0000000000000002 ***
+past.purchase  0.957207   0.015672   61.079 <0.0000000000000002 ***
+---
+Signif. codes:  0 `***' 0.001 `**' 0.01 `*' 0.05 `.' 0.1 ` ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 186297  on 569999  degrees of freedom
+Residual deviance: 178869  on 569994  degrees of freedom
+AIC: 178881
+
+Number of Fisher Scoring iterations: 6
+\end{lstlisting}
+\column{0.45\textwidth}
+While this model is better, the logistic regression coefficients can be difficult to interpret. \\
+\bigskip \pause
+We are still seeing that direct and email have a bigger effect than a single display or social impression.
+\end{columns}

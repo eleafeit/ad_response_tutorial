@@ -1,0 +1,387 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{2}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\sectionentry {1}{Preliminaries}{4}{Preliminaries}{0}}
+\headcommand {\beamer@sectionpages {1}{3}}
+\headcommand {\beamer@subsectionpages {1}{3}}
+\headcommand {\slideentry {1}{0}{1}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{5}{Why advertising response?}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {1}{1}{1}{5/5}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{1}{2}{6/6}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{1}{3}{7/8}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {7}{8}}
+\headcommand {\slideentry {1}{1}{4}{9/10}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\slideentry {1}{1}{5}{11/14}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {11}{14}}
+\headcommand {\slideentry {1}{1}{6}{15/20}{Why advertising response?}{0}}
+\headcommand {\beamer@framepages {15}{20}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{21}{Data}}\headcommand {\beamer@subsectionpages {5}{20}}
+\headcommand {\slideentry {1}{2}{1}{21/21}{Data}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {1}{2}{2}{22/22}{Data}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {1}{2}{3}{23/24}{Data}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {1}{2}{4}{25/25}{Data}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{26}{Customer file}}
+\headcommand {\slideentry {1}{2}{5}{26/26}{Data}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {1}{2}{6}{27/27}{Data}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {1}{2}{7}{28/28}{Data}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{29}{Impressions file}}
+\headcommand {\slideentry {1}{2}{8}{29/29}{Data}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {1}{2}{9}{30/30}{Data}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {1}{2}{10}{31/31}{Data}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {1}{2}{11}{32/32}{Data}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {1}{2}{12}{33/33}{Data}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {1}{2}{13}{34/34}{Data}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {1}{2}{14}{35/35}{Data}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{3}{36}{Transactions file}}
+\headcommand {\slideentry {1}{2}{15}{36/36}{Data}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {1}{2}{16}{37/37}{Data}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {1}{2}{17}{38/38}{Data}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {1}{2}{18}{39/39}{Data}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {1}{2}{19}{40/40}{Data}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {1}{2}{20}{41/41}{Data}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {1}{2}{21}{42/42}{Data}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {1}{2}{22}{43/43}{Data}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\sectionentry {2}{Attribution rules}{44}{Attribution rules}{0}}
+\headcommand {\beamer@sectionpages {4}{43}}
+\headcommand {\beamer@subsectionpages {21}{43}}
+\headcommand {\slideentry {2}{0}{1}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{45}{What is last click?}}\headcommand {\beamer@subsectionpages {44}{44}}
+\headcommand {\slideentry {2}{1}{1}{45/45}{What is last click?}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {2}{1}{2}{46/47}{What is last click?}{0}}
+\headcommand {\beamer@framepages {46}{47}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{48}{Last touch analysis in R}}\headcommand {\beamer@subsectionpages {45}{47}}
+\headcommand {\slideentry {2}{2}{1}{48/48}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {2}{2}{2}{49/49}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {2}{2}{3}{50/50}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {2}{2}{4}{51/51}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {2}{2}{5}{52/52}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {2}{2}{6}{53/53}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {2}{2}{7}{54/54}{Last touch analysis in R}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{55}{Limitations of last-click}}\headcommand {\beamer@subsectionpages {48}{54}}
+\headcommand {\slideentry {2}{3}{1}{55/55}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\slideentry {2}{3}{2}{56/56}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {2}{3}{3}{57/60}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {57}{60}}
+\headcommand {\slideentry {2}{3}{4}{61/61}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {2}{3}{5}{62/63}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {62}{63}}
+\headcommand {\slideentry {2}{3}{6}{64/64}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\slideentry {2}{3}{7}{65/65}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {2}{3}{8}{66/66}{Limitations of last-click}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\sectionentry {3}{Holdout testing}{67}{Holdout testing}{0}}
+\headcommand {\beamer@sectionpages {44}{66}}
+\headcommand {\beamer@subsectionpages {55}{66}}
+\headcommand {\slideentry {3}{0}{1}{67/67}{}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{68}{What is a holdout test?}}\headcommand {\beamer@subsectionpages {67}{67}}
+\headcommand {\slideentry {3}{1}{1}{68/68}{What is a holdout test?}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {3}{1}{2}{69/69}{What is a holdout test?}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\slideentry {3}{1}{3}{70/71}{What is a holdout test?}{0}}
+\headcommand {\beamer@framepages {70}{71}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{72}{Holdout test analysis in R}}\headcommand {\beamer@subsectionpages {68}{71}}
+\headcommand {\slideentry {3}{2}{1}{72/72}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {3}{2}{2}{73/73}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {3}{2}{3}{74/74}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\slideentry {3}{2}{4}{75/75}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\slideentry {3}{2}{5}{76/77}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {76}{77}}
+\headcommand {\slideentry {3}{2}{6}{78/78}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\slideentry {3}{2}{7}{79/80}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {79}{80}}
+\headcommand {\slideentry {3}{2}{8}{81/81}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {81}{81}}
+\headcommand {\slideentry {3}{2}{9}{82/82}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {82}{82}}
+\headcommand {\slideentry {3}{2}{10}{83/83}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\slideentry {3}{2}{11}{84/84}{Holdout test analysis in R}{0}}
+\headcommand {\beamer@framepages {84}{84}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{85}{Planning a holdout test}}\headcommand {\beamer@subsectionpages {72}{84}}
+\headcommand {\slideentry {3}{3}{1}{85/85}{Planning a holdout test}{0}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\slideentry {3}{3}{2}{86/86}{Planning a holdout test}{0}}
+\headcommand {\beamer@framepages {86}{86}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{87}{Example: Johnson, Lewis and Reiley (2017)}}\headcommand {\beamer@subsectionpages {85}{86}}
+\headcommand {\slideentry {3}{4}{1}{87/87}{Example: Johnson, Lewis and Reiley (2017)}{0}}
+\headcommand {\beamer@framepages {87}{87}}
+\headcommand {\slideentry {3}{4}{2}{88/88}{Example: Johnson, Lewis and Reiley (2017)}{0}}
+\headcommand {\beamer@framepages {88}{88}}
+\headcommand {\slideentry {3}{4}{3}{89/92}{Example: Johnson, Lewis and Reiley (2017)}{0}}
+\headcommand {\beamer@framepages {89}{92}}
+\headcommand {\slideentry {3}{4}{4}{93/93}{Example: Johnson, Lewis and Reiley (2017)}{0}}
+\headcommand {\beamer@framepages {93}{93}}
+\headcommand {\slideentry {3}{4}{5}{94/94}{Example: Johnson, Lewis and Reiley (2017)}{0}}
+\headcommand {\beamer@framepages {94}{94}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{95}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}}\headcommand {\beamer@subsectionpages {87}{94}}
+\headcommand {\slideentry {3}{5}{1}{95/95}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {95}{95}}
+\headcommand {\slideentry {3}{5}{2}{96/96}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {96}{96}}
+\headcommand {\slideentry {3}{5}{3}{97/100}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {97}{100}}
+\headcommand {\slideentry {3}{5}{4}{101/101}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\slideentry {3}{5}{5}{102/102}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {102}{102}}
+\headcommand {\slideentry {3}{5}{6}{103/103}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {103}{103}}
+\headcommand {\slideentry {3}{5}{7}{104/104}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {104}{104}}
+\headcommand {\slideentry {3}{5}{8}{105/105}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{0}}
+\headcommand {\beamer@framepages {105}{105}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{106}{Example: Blake, Nosko and Tadellis (2015)}}\headcommand {\beamer@subsectionpages {95}{105}}
+\headcommand {\slideentry {3}{6}{1}{106/106}{Example: Blake, Nosko and Tadellis (2015)}{0}}
+\headcommand {\beamer@framepages {106}{106}}
+\headcommand {\slideentry {3}{6}{2}{107/107}{Example: Blake, Nosko and Tadellis (2015)}{0}}
+\headcommand {\beamer@framepages {107}{107}}
+\headcommand {\slideentry {3}{6}{3}{108/111}{Example: Blake, Nosko and Tadellis (2015)}{0}}
+\headcommand {\beamer@framepages {108}{111}}
+\headcommand {\slideentry {3}{6}{4}{112/112}{Example: Blake, Nosko and Tadellis (2015)}{0}}
+\headcommand {\beamer@framepages {112}{112}}
+\headcommand {\slideentry {3}{6}{5}{113/113}{Example: Blake, Nosko and Tadellis (2015)}{0}}
+\headcommand {\beamer@framepages {113}{113}}
+\headcommand {\sectionentry {4}{Marketing mix modeling}{114}{Marketing mix modeling}{0}}
+\headcommand {\beamer@sectionpages {67}{113}}
+\headcommand {\beamer@subsectionpages {106}{113}}
+\headcommand {\slideentry {4}{0}{1}{114/114}{}{0}}
+\headcommand {\beamer@framepages {114}{114}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{115}{What is marketing mix modeling?}}\headcommand {\beamer@subsectionpages {114}{114}}
+\headcommand {\slideentry {4}{1}{1}{115/115}{What is marketing mix modeling?}{0}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\slideentry {4}{1}{2}{116/116}{What is marketing mix modeling?}{0}}
+\headcommand {\beamer@framepages {116}{116}}
+\headcommand {\slideentry {4}{1}{3}{117/120}{What is marketing mix modeling?}{0}}
+\headcommand {\beamer@framepages {117}{120}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{121}{Marketing-mix modeling in R}}\headcommand {\beamer@subsectionpages {115}{120}}
+\headcommand {\slideentry {4}{2}{1}{121/121}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {121}{121}}
+\headcommand {\slideentry {4}{2}{2}{122/122}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\slideentry {4}{2}{3}{123/123}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {123}{123}}
+\headcommand {\slideentry {4}{2}{4}{124/124}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {124}{124}}
+\headcommand {\slideentry {4}{2}{5}{125/125}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {125}{125}}
+\headcommand {\slideentry {4}{2}{6}{126/126}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {126}{126}}
+\headcommand {\slideentry {4}{2}{7}{127/127}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {127}{127}}
+\headcommand {\slideentry {4}{2}{8}{128/128}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {128}{128}}
+\headcommand {\slideentry {4}{2}{9}{129/129}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {129}{129}}
+\headcommand {\slideentry {4}{2}{10}{130/130}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {130}{130}}
+\headcommand {\slideentry {4}{2}{11}{131/133}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {131}{133}}
+\headcommand {\slideentry {4}{2}{12}{134/134}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {134}{134}}
+\headcommand {\slideentry {4}{2}{13}{135/136}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {135}{136}}
+\headcommand {\slideentry {4}{2}{14}{137/140}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {137}{140}}
+\headcommand {\slideentry {4}{2}{15}{141/142}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {141}{142}}
+\headcommand {\slideentry {4}{2}{16}{143/143}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {143}{143}}
+\headcommand {\slideentry {4}{2}{17}{144/144}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {144}{144}}
+\headcommand {\slideentry {4}{2}{18}{145/145}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {145}{145}}
+\headcommand {\slideentry {4}{2}{19}{146/146}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {146}{146}}
+\headcommand {\slideentry {4}{2}{20}{147/147}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {147}{147}}
+\headcommand {\slideentry {4}{2}{21}{148/148}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {148}{148}}
+\headcommand {\slideentry {4}{2}{22}{149/149}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {149}{149}}
+\headcommand {\slideentry {4}{2}{23}{150/150}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {150}{150}}
+\headcommand {\slideentry {4}{2}{24}{151/151}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {151}{151}}
+\headcommand {\slideentry {4}{2}{25}{152/152}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {152}{152}}
+\headcommand {\slideentry {4}{2}{26}{153/153}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {153}{153}}
+\headcommand {\slideentry {4}{2}{27}{154/154}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {154}{154}}
+\headcommand {\slideentry {4}{2}{28}{155/157}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {155}{157}}
+\headcommand {\slideentry {4}{2}{29}{158/158}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {158}{158}}
+\headcommand {\slideentry {4}{2}{30}{159/160}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {159}{160}}
+\headcommand {\slideentry {4}{2}{31}{161/161}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {161}{161}}
+\headcommand {\slideentry {4}{2}{32}{162/163}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {162}{163}}
+\headcommand {\slideentry {4}{2}{33}{164/164}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {164}{164}}
+\headcommand {\slideentry {4}{2}{34}{165/165}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {165}{165}}
+\headcommand {\slideentry {4}{2}{35}{166/166}{Marketing-mix modeling in R}{0}}
+\headcommand {\beamer@framepages {166}{166}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{167}{What can go wrong?}}\headcommand {\beamer@subsectionpages {121}{166}}
+\headcommand {\slideentry {4}{3}{1}{167/167}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {167}{167}}
+\headcommand {\slideentry {4}{3}{2}{168/170}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {168}{170}}
+\headcommand {\slideentry {4}{3}{3}{171/172}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {171}{172}}
+\headcommand {\slideentry {4}{3}{4}{173/174}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {173}{174}}
+\headcommand {\slideentry {4}{3}{5}{175/175}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {175}{175}}
+\headcommand {\slideentry {4}{3}{6}{176/178}{What can go wrong?}{0}}
+\headcommand {\beamer@framepages {176}{178}}
+\headcommand {\sectionentry {5}{Model-based attribution}{179}{Model-based attribution}{0}}
+\headcommand {\beamer@sectionpages {114}{178}}
+\headcommand {\beamer@subsectionpages {167}{178}}
+\headcommand {\slideentry {5}{0}{1}{179/179}{}{0}}
+\headcommand {\beamer@framepages {179}{179}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{180}{What is model-based attribution?}}\headcommand {\beamer@subsectionpages {179}{179}}
+\headcommand {\slideentry {5}{1}{1}{180/180}{What is model-based attribution?}{0}}
+\headcommand {\beamer@framepages {180}{180}}
+\headcommand {\slideentry {5}{1}{2}{181/181}{What is model-based attribution?}{0}}
+\headcommand {\beamer@framepages {181}{181}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{182}{Model-based attribution in R}}\headcommand {\beamer@subsectionpages {180}{181}}
+\headcommand {\slideentry {5}{2}{1}{182/182}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {182}{182}}
+\headcommand {\slideentry {5}{2}{2}{183/183}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {183}{183}}
+\headcommand {\slideentry {5}{2}{3}{184/184}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {184}{184}}
+\headcommand {\slideentry {5}{2}{4}{185/185}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {185}{185}}
+\headcommand {\slideentry {5}{2}{5}{186/186}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {186}{186}}
+\headcommand {\slideentry {5}{2}{6}{187/187}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {187}{187}}
+\headcommand {\slideentry {5}{2}{7}{188/188}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {188}{188}}
+\headcommand {\slideentry {5}{2}{8}{189/189}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {189}{189}}
+\headcommand {\slideentry {5}{2}{9}{190/190}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {190}{190}}
+\headcommand {\slideentry {5}{2}{10}{191/191}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {191}{191}}
+\headcommand {\slideentry {5}{2}{11}{192/192}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {192}{192}}
+\headcommand {\slideentry {5}{2}{12}{193/193}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {193}{193}}
+\headcommand {\slideentry {5}{2}{13}{194/194}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {194}{194}}
+\headcommand {\slideentry {5}{2}{14}{195/196}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {195}{196}}
+\headcommand {\slideentry {5}{2}{15}{197/197}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {197}{197}}
+\headcommand {\slideentry {5}{2}{16}{198/200}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {198}{200}}
+\headcommand {\slideentry {5}{2}{17}{201/202}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {201}{202}}
+\headcommand {\slideentry {5}{2}{18}{203/203}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {203}{203}}
+\headcommand {\slideentry {5}{2}{19}{204/205}{Model-based attribution in R}{0}}
+\headcommand {\beamer@framepages {204}{205}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{206}{Advanced attribution model features}}\headcommand {\beamer@subsectionpages {182}{205}}
+\headcommand {\slideentry {5}{3}{1}{206/206}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {206}{206}}
+\headcommand {\slideentry {5}{3}{2}{207/208}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {207}{208}}
+\headcommand {\slideentry {5}{3}{3}{209/210}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {209}{210}}
+\headcommand {\slideentry {5}{3}{4}{211/211}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {211}{211}}
+\headcommand {\slideentry {5}{3}{5}{212/212}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {212}{212}}
+\headcommand {\slideentry {5}{3}{6}{213/213}{Advanced attribution model features}{0}}
+\headcommand {\beamer@framepages {213}{213}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{214}{Example: Zantedeschi, Feit and Bradlow (2017)}}\headcommand {\beamer@subsectionpages {206}{213}}
+\headcommand {\slideentry {5}{4}{1}{214/214}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {214}{214}}
+\headcommand {\slideentry {5}{4}{2}{215/216}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {215}{216}}
+\headcommand {\slideentry {5}{4}{3}{217/217}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {217}{217}}
+\headcommand {\slideentry {5}{4}{4}{218/218}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {218}{218}}
+\headcommand {\slideentry {5}{4}{5}{219/219}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {219}{219}}
+\headcommand {\slideentry {5}{4}{6}{220/220}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {220}{220}}
+\headcommand {\slideentry {5}{4}{7}{221/225}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {221}{225}}
+\headcommand {\slideentry {5}{4}{8}{226/226}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {226}{226}}
+\headcommand {\slideentry {5}{4}{9}{227/227}{Example: Zantedeschi, Feit and Bradlow (2017)}{0}}
+\headcommand {\beamer@framepages {227}{227}}
+\headcommand {\sectionentry {6}{Review}{228}{Review}{0}}
+\headcommand {\beamer@sectionpages {179}{227}}
+\headcommand {\beamer@subsectionpages {214}{227}}
+\headcommand {\slideentry {6}{0}{1}{228/228}{}{0}}
+\headcommand {\beamer@framepages {228}{228}}
+\headcommand {\slideentry {6}{0}{2}{229/231}{}{0}}
+\headcommand {\beamer@framepages {229}{231}}
+\headcommand {\slideentry {6}{0}{3}{232/232}{}{0}}
+\headcommand {\beamer@framepages {232}{232}}
+\headcommand {\slideentry {6}{0}{4}{233/233}{}{0}}
+\headcommand {\beamer@framepages {233}{233}}
+\headcommand {\slideentry {6}{0}{5}{234/234}{}{0}}
+\headcommand {\beamer@framepages {234}{234}}
+\headcommand {\beamer@partpages {1}{235}}
+\headcommand {\beamer@subsectionpages {228}{235}}
+\headcommand {\beamer@sectionpages {228}{235}}
+\headcommand {\beamer@documentpages {235}}
+\headcommand {\def \inserttotalframenumber {146}}
