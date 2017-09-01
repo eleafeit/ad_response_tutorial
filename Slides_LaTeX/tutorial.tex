@@ -16,17 +16,17 @@
 
 \title{Is my advertising working?}
 \subtitle{Four methods for measuring advertising response}
-\date{10 May 2017} % \date{\today}
+\date{10 May 2017 \\ updated 1 September 2017} % \date{\today}
 \author{Elea McDonnell Feit}
 %\institute{}
 % \titlegraphic{\hfill\includegraphics[height=1.5cm]{logo.pdf}}
 
 \begin{document}
 
-{
-\setbeamercolor{background canvas}{bg=}
-\includepdf[pages=1]{images/AdvertisingTechWorkshop.pdf}
-}
+%{
+%\setbeamercolor{background canvas}{bg=}
+%\includepdf[pages=1]{images/AdvertisingTechWorkshop.pdf}
+%}
 
 \maketitle
 
@@ -156,7 +156,7 @@ We start our R session with a bit of tidying up.
 \subsubsection{Customer file}
 
 \begin{frame}[fragile]{\alert{Customer file}}
-The customer file can be downloaded from \href{https://goo.gl/mqy8NR}{https://goo.gl/mqy8NR}. Each row describes a customer. \\
+The customer file can be downloaded from \href{goo.gl/fyxRE5}{goo.gl/fyxRE5}. Each row describes a customer. \\
 \bigskip
 \emph{Columns:} \\
 \verb|id|: \textcolor{gray}{an id number for the customer}\\
@@ -203,7 +203,7 @@ email    0    1
 \subsubsection{Impressions file}
 
 \begin{frame}[fragile]{\alert{Impressions file}}
-The impressions file can be downloaded from \href{https://goo.gl/74qIxy}{https://goo.gl/74qIxy}. Each row in the file represents an exposure of one customer to an ad, i.e. an impression.\\
+The impressions file can be downloaded from \href{https://goo.gl/LT93AA}{https://goo.gl/LT93AA}. Each row in the file represents an exposure of one customer to an ad, i.e. an impression.\\
 \bigskip
 \emph{Columns:} \\
 \verb|id|: \textcolor{gray}{id number for the customer}\\
@@ -290,7 +290,7 @@ channel
 \subsubsection{Transactions file}
 
 \begin{frame}[fragile]{\alert{Transactions file}}
-The transactions file can be downloaded from \href{https://goo.gl/lIAuZu}{\texttt{https://goo.gl/lIAuZu}}. Each row in the file represents a purchase made by a customer. \\
+The transactions file can be downloaded from \href{https://goo.gl/ZErZ6g}{\texttt{https://goo.gl/ZErZ6g}}. Each row in the file represents a purchase made by a customer. \\
 \bigskip
 Columns: \\
 \verb|id|: id number for the customer \\
@@ -761,13 +761,13 @@ How should customers be assigned to treatment and control groups? \\
 \column{0.3\textwidth}
 \includegraphics[width=\textwidth]{images/johnsonetaltest.png}\\
 \includegraphics[width=\textwidth]{images/johnsonetalcontrol.png}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWWDhnZ0FKOWktQ1U}{Johnson, Lewis and Reiley (2017)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/JohnsonLewisReiley2017WhenLessIsMore.pdf}{Johnson, Lewis and Reiley (2017)}}
 \column{0.7\textwidth}
 During two weeks in Spring 2010, a national apparel retailer ran a test on Yahoo! to measure response to \alert{display ads} on Yahoo!. \\
 \bigskip
 The ads displayed the retailer brand and brands of apparel firm, with slideshow transitions between photographs and text. \\
 \bigskip
-This test is described in detail in \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWWDhnZ0FKOWktQ1U}{Johnson, Lewis and Reiley (2017) ``When less is more: Data and power in advertising experiments", \textit{Marketing Science} 36(1), 43-53.}  
+This test is described in detail in \href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/JohnsonLewisReiley2017WhenLessIsMore.pdf}{Johnson, Lewis and Reiley (2017) ``When less is more: Data and power in advertising experiments", \textit{Marketing Science} 36(1), 43-53.}  
 \end{columns}
 \end{frame}
 
@@ -802,7 +802,7 @@ It is a good idea to check that the treatment and control groups looked similar 
 \includegraphics[height=0.4\textheight]{images/johnsonetalrandomizationcheck.png} \vspace{1cm}
 \includegraphics[height=0.4\textheight]{images/johnsonetalrandomizationcheck2.png}
 \end{center}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWWDhnZ0FKOWktQ1U}{Johnson, Lewis and Reiley (2017)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/JohnsonLewisReiley2017WhenLessIsMore.pdf}{Johnson, Lewis and Reiley (2017)}}
 \alert{The three groups appear to be similar.  So, the randomization worked and we are comparing ``apples to apples".}
 \end{frame}
 
@@ -820,9 +820,9 @@ Sales Increase for Full and Half Treatments (\$)
 During two weeks in the first half of 2015, an omni-channel retailer conducted a test to determine the lift Facebook ads in the newsfeed. 
 \begin{center}
 \includegraphics[height=0.5\textheight]{images/gordonetaltreatmentcontrol2.png}\\
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Gordon et al. (2016 WP)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Gordonetal2016WPFieldExperimentsatFacebook.pdf}{Gordon et al. (2016 WP)}}
 \end{center}
-This test is reported in \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Gordon, Zettelmeyer, Bhargava and Chapsky (2016WP) ``A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook"}
+This test is reported in \href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Gordonetal2016WPFieldExperimentsatFacebook.pdf}{Gordon, Zettelmeyer, Bhargava and Chapsky (2016WP) ``A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook"}
 \end{frame}
 
 \begin{frame}{Search advertising holdout test design}
@@ -853,7 +853,7 @@ Since purchasing house ads or public service announcements (PSAs) is expensive, 
 \begin{center}
 \includegraphics[height=0.5\textheight]{images/gordonetaltreatmentcontrol2.png}\\
 \end{center}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Gordon et al. (2016 WP)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Gordonetal2016WPFieldExperimentsatFacebook.pdf}{Gordon et al. (2016 WP)}}
 \alert{By using the ``next advertiser" as the control condition, the sales lift we estimate is relative to ``what would have happened had we not done the campaign."}
 \end{frame}
 
@@ -861,7 +861,7 @@ Since purchasing house ads or public service announcements (PSAs) is expensive, 
 \begin{frame}{Social holdout test: Randomization check}
 \begin{center}
 \includegraphics[height=0.6\textheight]{images/gordonetalrandomizationcheck.png}\\
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Gordon et al. (2016 WP)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Gordonetal2016WPFieldExperimentsatFacebook.pdf}{Gordon et al. (2016 WP)}}
 \alert{The test and control groups appear to be similar. Randomization worked.}
 \end{center}
 \end{frame}
@@ -870,7 +870,7 @@ Since purchasing house ads or public service announcements (PSAs) is expensive, 
 \begin{center}
 \includegraphics[height=0.6\textheight]{images/gordonetalresult.png}\\
 \end{center}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Gordon et al. (2016 WP)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Gordonetal2016WPFieldExperimentsatFacebook.pdf}{Gordon et al. (2016 WP)}}
 \alert{There is a 0.045\% increase in conversions when comparing the users exposed to ads to the users in the control group that would have been exposed.}
 \end{frame}
 
@@ -901,7 +901,7 @@ Conversion lift accurately captures the impact that Facebook ads have in driving
 \column{0.5\textwidth}
 In April-July 2012, eBay ran a holdout experiment to determine the sales lift of their search advertising targeting keywords other than ``eBay". \\
 \bigskip
-This test is reported in detail in \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWcUR6Y3dJVGlIazA}{Blake, Nosko and Tadelis (2015) ``Consumer Heterogeneity and Paid Search Effectiveness: A Large-Scale Field Experiment", \textit{Econometrica} 83(1), 155-174.}
+This test is reported in detail in \href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/BlakeNoskoTadelis2015ConsumerHeterogeneityandPaidSearchEffectiveness.pdf}{Blake, Nosko and Tadelis (2015) ``Consumer Heterogeneity and Paid Search Effectiveness: A Large-Scale Field Experiment", \textit{Econometrica} 83(1), 155-174.}
 \end{columns}
 \end{frame}
 
@@ -934,7 +934,7 @@ How should DMAs be assigned to treatment and control groups? \\
 \centering
 Ratio of Sales \\ Before and During Test Period\\
 \includegraphics[width=\textwidth]{images/blakeetalresult.png}\\
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Blake, Nosko and Tadellis (2015)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/BlakeNoskoTadelis2015ConsumerHeterogeneityandPaidSearchEffectiveness.pdf}{Blake, Nosko and Tadellis (2015)}}
 \column{0.5\textwidth}
 \alert{Search advertising does not increase eBay sales. \\ As a result, eBay has drastically reduced search advertising.}
 \end{columns}
@@ -948,7 +948,7 @@ Ratio of Sales \\ Before and During Test Period\\
 (sale within 24 hours of search ad exposure)\\
 Before and During Test Period\\
 \includegraphics[width=0.9\textwidth]{images/blakeetallasttouch.png}\\
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWU1BkWnFxZlZuZUE}{Blake, Nosko and Tadellis (2015)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/BlakeNoskoTadelis2015ConsumerHeterogeneityandPaidSearchEffectiveness.pdf}{Blake, Nosko and Tadellis (2015)}}
 \column{0.5\textwidth}
 \alert{If you were using last touch attribution, you would think that search advertising made a big difference.}
 \end{columns}
@@ -1427,7 +1427,7 @@ There are several other ideas about how advertising works that we could build in
 \begin{columns}
 \column{0.5\textwidth}
 \includegraphics[width=\textwidth]{images/sshapedadresponse.png}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWZkE1TWtNNVpBUzA}{Little (1979)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Little1979AggregateAdvertisingModels.pdf}{Little (1979)}}
 \column{0.5\textwidth}
 Two old saws of advertising: 
 \begin{itemize} 
@@ -1449,7 +1449,7 @@ Over time, even a constant level of advertising may become less effective, parti
 \begin{frame}{Little's principles}
 Little (1979) summarized five key principals for marketing mix models, based on the data he had studied on aggregate advertising spending and sales. 
 \includegraphics[width=\textwidth]{images/littleprincipals.png}
-\source{\href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWZkE1TWtNNVpBUzA}{Little (1979)}}
+\source{\href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/Little1979AggregateAdvertisingModels.pdf}{Little (1979)}}
 \end{frame}
 
 % VARX Models
@@ -1937,7 +1937,7 @@ The ad stock concept makes a lot of sense when it is computed at the user-level.
 \begin{columns}
 \column{0.5\textwidth}
 \includegraphics[width=\textwidth]{images/ad_stock_over_time.png}
-\source{Working version of \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWRHZ6bFh6aHZXQ28}{Braun and Moe (2013)}}
+\source{Working version of \href{https://goo.gl/nbZCcN}{Braun and Moe (2013)}}
 \column{0.5\textwidth}
 Focusing on display ads only, Moe and Braun (2013) propose a model that includes: 
 \begin{itemize}
@@ -1946,7 +1946,7 @@ Focusing on display ads only, Moe and Braun (2013) propose a model that includes
 \end{itemize}
 This type of model can be used to plan ad rotations.\\
 \bigskip
-This model is described in detail in \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWRHZ6bFh6aHZXQ28}{Braun and Moe (2013) Online Display Advertising: Modeling the Effects of Multiple Creatives and Individual Impression Histories}.
+This model is described in detail in \href{https://goo.gl/nbZCcN}{Braun and Moe (2013) Online Display Advertising: Modeling the Effects of Multiple Creatives and Individual Impression Histories}.
 \end{columns}
 \end{frame}
 
@@ -1986,7 +1986,7 @@ We have more and better options for endogeneity bias corrections in attribution 
 \end{itemize}
 \end{columns}
 \bigskip \pause
-This attribution model is reported in \href{https://drive.google.com/uc?export=download&id=0B0EzanlzLNsWRWZxVTNnZlFsUGc}{Zantedeschi, Feit and Bradlow (2017) Measuring multi-channel advertising response, \emph{Management Science}, forthcoming.} 
+This attribution model is reported in \href{https://github.com/eleafeit/ad_response_tutorial/blob/master/Papers/ZantedeschiFeitBradlow2017MeasuringMultichannelAdvertisingResponse.pdf}{Zantedeschi, Feit and Bradlow (2017) Measuring multi-channel advertising response, \emph{Management Science}, forthcoming.} 
 \end{frame}
 
 \begin{frame}{Why not marketing mix modeling?}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 MAY 2017 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 SEP 2017 10:53
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1090,58 +1090,12 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 (./tutorial.nav)
-<images/AdvertisingTechWorkshop.pdf, id=109, 963.6pt x 542.025pt>
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
-28.
-(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line 
-28.
-(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
-
-<images/AdvertisingTechWorkshop.pdf, id=112, page=1, 963.6pt x 542.025pt>
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf, page 1>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
-t line 28.
-(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf, page 1>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
-t line 28.
-(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf, page 1>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
-t line 28.
-(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf, page 1>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
-t line 28.
-(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
-File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
-
-<use images/AdvertisingTechWorkshop.pdf, page 1>
-Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page1 used on inpu
-t line 28.
-(pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
- [1
-
- <./images/AdvertisingTechWorkshop.pdf>]
 Overfull \vbox (13.79993pt too high) detected at line 31
  []
 
-[2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./tutorial.toc)
 Overfull \hbox (0.4pt too wide) in paragraph at lines 35--35
 [][]  
@@ -1151,7 +1105,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 35--35
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 35.
 
-[3
+[2
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 42.
@@ -1169,11 +1123,11 @@ line 42.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [4
+) [3
 
-] [5
+] [4
 
-] <images/WanamakerQuote.png, id=205, 935.495pt x 596.2275pt>
+] <images/WanamakerQuote.png, id=149, 935.495pt x 596.2275pt>
 File: images/WanamakerQuote.png Graphic file (type png)
 
 <use images/WanamakerQuote.png>
@@ -1183,23 +1137,23 @@ Package pdftex.def Info: images/WanamakerQuote.png used on input line 50.
 Overfull \vbox (26.4805pt too high) detected at line 50
  []
 
-[6
+[5
 
  <./images/WanamakerQuote.png>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 60--60
 [][]  
  []
 
-[7
+[6
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 60--60
 [][]  
  []
 
-[8
+[7
 
-] <images/incremental_sales.png, id=227, 519.9425pt x 340.27126pt>
+] <images/incremental_sales.png, id=171, 519.9425pt x 340.27126pt>
 File: images/incremental_sales.png Graphic file (type png)
 
 <use images/incremental_sales.png>
@@ -1210,7 +1164,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 72--72
 [][]  
  []
 
-[9
+[8
 
  <./images/incremental_sales.png>]
 File: images/incremental_sales.png Graphic file (type png)
@@ -1222,7 +1176,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 72--72
 [][]  
  []
 
-[10
+[9
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 88.
@@ -1235,6 +1189,13 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              for symbol `textbullet' on input line 88.
 
 
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
+ []
+
+[10
+
+]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
 [][]  
  []
@@ -1256,8 +1217,12 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
 [13
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
 [][]  
+ []
+
+
+Overfull \vbox (13.20674pt too high) detected at line 110
  []
 
 [14
@@ -1317,41 +1282,30 @@ Overfull \vbox (13.20674pt too high) detected at line 110
 
 [19
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
-[][]  
- []
+] [20
 
-
-Overfull \vbox (13.20674pt too high) detected at line 110
- []
-
-[20
-
-] [21
-
-] <images/target_display.png, id=302, 200.75pt x 170.6375pt>
+] <images/target_display.png, id=246, 200.75pt x 170.6375pt>
 File: images/target_display.png Graphic file (type png)
 
 <use images/target_display.png>
 Package pdftex.def Info: images/target_display.png used on input line 135.
 (pdftex.def)             Requested size: 99.58464pt x 84.64937pt.
 
-<images/target_social.png, id=303, 309.155pt x 242.9075pt>
+<images/target_social.png, id=247, 309.155pt x 242.9075pt>
 File: images/target_social.png Graphic file (type png)
 
 <use images/target_social.png>
 Package pdftex.def Info: images/target_social.png used on input line 135.
 (pdftex.def)             Requested size: 99.58464pt x 78.24347pt.
 
-<images/target_email.jpg, id=304, 566.115pt x 714.67pt>
+<images/target_email.jpg, id=248, 566.115pt x 714.67pt>
 File: images/target_email.jpg Graphic file (type jpg)
 
 <use images/target_email.jpg>
 Package pdftex.def Info: images/target_email.jpg used on input line 135.
 (pdftex.def)             Requested size: 99.58464pt x 125.71251pt.
 
-<images/target_direct.jpeg, id=305, 272.01625pt x 186.6975pt>
+<images/target_direct.jpeg, id=249, 272.01625pt x 186.6975pt>
 File: images/target_direct.jpeg Graphic file (type jpg)
 
 <use images/target_direct.jpeg>
@@ -1362,7 +1316,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 135--135
 [][]  
  []
 
-[22
+[21
 
  <./images/target_display.png> <./images/target_social.png> <./images/target_em
 ail.jpg> <./images/target_direct.jpeg>]
@@ -1370,14 +1324,14 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 145--145
 [][]  
  []
 
-[23
+[22
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 145--145
 [][]  
  []
 
-[24
+[23
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1387,7 +1341,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 154--154
 [][]  
  []
 
-[25
+[24
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1397,7 +1351,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 166--166
 [][]  
  []
 
-[26
+[25
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1407,7 +1361,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 184--184
 [][]  
  []
 
-[27
+[26
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1417,7 +1371,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 201--201
 [][]  
  []
 
-[28
+[27
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1427,7 +1381,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 213--213
 [][]  
  []
 
-[29
+[28
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1437,7 +1391,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 231--231
 [][]  
  []
 
-[30
+[29
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1447,7 +1401,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
 [][]  
  []
 
-[31
+[30
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1457,9 +1411,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 256--256
 [][]  
  []
 
-[32
+[31
 
-] <images/cadence.png, id=374, 602.25pt x 250.9375pt>
+] <images/cadence.png, id=317, 602.25pt x 250.9375pt>
 File: images/cadence.png Graphic file (type png)
 
 <use images/cadence.png>
@@ -1474,13 +1428,13 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 266--266
 Overfull \vbox (13.93494pt too high) detected at line 266
  []
 
-[33
+[32
 
  <./images/cadence.png>]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb
-<images/histimpressions.png, id=380, 481.8pt x 301.125pt>
+<images/histimpressions.png, id=324, 481.8pt x 301.125pt>
 File: images/histimpressions.png Graphic file (type png)
 
 <use images/histimpressions.png>
@@ -1495,7 +1449,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 278--278
 Overfull \vbox (12.91989pt too high) detected at line 278
  []
 
-[34
+[33
 
  <./images/histimpressions.png>]
 \openout4 = `tutorial.vrb'.
@@ -1505,7 +1459,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
-[35
+[34
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1515,7 +1469,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 302--302
 [][]  
  []
 
-[36
+[35
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1553,7 +1507,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 316--316
 [][]  
  []
 
-[37
+[36
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1563,12 +1517,12 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 334--334
 [][]  
  []
 
-[38
+[37
 
 ]
 \openout4 = `tutorial.vrb'.
 
- (./tutorial.vrb <images/transbyday.png, id=410, 602.25pt x 250.9375pt>
+ (./tutorial.vrb <images/transbyday.png, id=355, 602.25pt x 250.9375pt>
 File: images/transbyday.png Graphic file (type png)
 
 <use images/transbyday.png>
@@ -1583,7 +1537,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 344--344
 Overfull \vbox (4.4001pt too high) detected at line 344
  []
 
-[39
+[38
 
  <./images/transbyday.png>]
 \openout4 = `tutorial.vrb'.
@@ -1594,7 +1548,7 @@ Overfull \hbox (30.07089pt too wide) in paragraph at lines 3--4
 ][][][][] 
  []
 
-<images/histtrans.png, id=417, 481.8pt x 301.125pt>
+<images/histtrans.png, id=362, 481.8pt x 301.125pt>
 File: images/histtrans.png Graphic file (type png)
  <use images/histtrans.png>
 Package pdftex.def Info: images/histtrans.png used on input line 7.
@@ -1604,7 +1558,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 355--355
 [][]  
  []
 
-[40
+[39
 
  <./images/histtrans.png>]
 \openout4 = `tutorial.vrb'.
@@ -1614,7 +1568,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 372--372
 [][]  
  []
 
-[41
+[40
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1628,20 +1582,20 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 396--396
 Overfull \vbox (8.78722pt too high) detected at line 396
  []
 
-[42
+[41
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 409--409
 [][]  
  []
 
-[43
+[42
+
+] [43
 
 ] [44
 
-] [45
-
-] <images/lasttouch.png, id=454, 481.8pt x 301.125pt>
+] <images/lasttouch.png, id=397, 481.8pt x 301.125pt>
 File: images/lasttouch.png Graphic file (type png)
 
 <use images/lasttouch.png>
@@ -1656,7 +1610,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 423--423
 Overfull \vbox (92.64618pt too high) detected at line 423
  []
 
-[46
+[45
 
  <./images/lasttouch.png>]
 File: images/lasttouch.png Graphic file (type png)
@@ -1672,9 +1626,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 423--423
 Overfull \vbox (92.64618pt too high) detected at line 423
  []
 
-[47
+[46
 
-] [48
+] [47
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1684,7 +1638,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 440--440
 [][]  
  []
 
-[49
+[48
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1694,7 +1648,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 453--453
 [][]  
  []
 
-[50
+[49
 
 ]
 File: images/lasttouch.png Graphic file (type png)
@@ -1706,7 +1660,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 460--460
 [][]  
  []
 
-[51
+[50
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1716,7 +1670,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 471--471
 [][]  
  []
 
-[52
+[51
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1726,7 +1680,7 @@ Overfull \hbox (6.28822pt too wide) in paragraph at lines 7--8
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<images/lastclick.png, id=499, 481.8pt x 301.125pt>
+<images/lastclick.png, id=441, 481.8pt x 301.125pt>
 File: images/lastclick.png Graphic file (type png)
  <use images/lastclick.png>
 Package pdftex.def Info: images/lastclick.png used on input line 15.
@@ -1736,7 +1690,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 490--490
 [][]  
  []
 
-[53
+[52
 
  <./images/lastclick.png>]
 \openout4 = `tutorial.vrb'.
@@ -1746,9 +1700,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 513--513
 [][]  
  []
 
-[54
+[53
 
-] [55
+] [54
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{lasttouch<1>
 }) has been already used, duplicate ignored
@@ -1767,6 +1721,13 @@ Package pdftex.def Info: images/lasttouch.png used on input line 517.
 (pdftex.def)             Requested size: 199.1693pt x 124.4775pt.
 
 Overfull \hbox (0.4pt too wide) in paragraph at lines 517--517
+[][]  
+ []
+
+[55
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
 [][]  
  []
 
@@ -1793,14 +1754,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
 
 [59
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 531--531
-[][]  
- []
-
-[60
-
-] <images/pathtopurchase.png, id=545, 1051.93pt x 358.33875pt>
+] <images/pathtopurchase.png, id=487, 1051.93pt x 358.33875pt>
 File: images/pathtopurchase.png Graphic file (type png)
 
 <use images/pathtopurchase.png>
@@ -1811,10 +1765,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 538--538
 [][]  
  []
 
-[61
+[60
 
  <./images/pathtopurchase.png>]
-<images/google-attribution-modeling-tool.jpg, id=554, 482.80376pt x 224.84pt>
+<images/google-attribution-modeling-tool.jpg, id=495, 482.80376pt x 224.84pt>
 File: images/google-attribution-modeling-tool.jpg Graphic file (type jpg)
 
 <use images/google-attribution-modeling-tool.jpg>
@@ -1826,7 +1780,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 548--548
 [][]  
  []
 
-[62
+[61
 
  <./images/google-attribution-modeling-tool.jpg>]
 File: images/google-attribution-modeling-tool.jpg Graphic file (type jpg)
@@ -1840,25 +1794,25 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 548--548
 [][]  
  []
 
-[63
+[62
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 557--557
 [][]  
  []
 
-[64
+[63
 
-] <images/lastclickdead.png, id=572, 691.58376pt x 301.125pt>
+] <images/lastclickdead.png, id=514, 691.58376pt x 301.125pt>
 File: images/lastclickdead.png Graphic file (type png)
 
 <use images/lastclickdead.png>
 Package pdftex.def Info: images/lastclickdead.png used on input line 564.
 (pdftex.def)             Requested size: 372.15167pt x 162.03606pt.
- [65
+ [64
 
  <./images/lastclickdead.png>]
-<images/attribution360.png, id=580, 418.56375pt x 367.3725pt>
+<images/attribution360.png, id=522, 418.56375pt x 367.3725pt>
 File: images/attribution360.png Graphic file (type png)
 
 <use images/attribution360.png>
@@ -1873,14 +1827,14 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 573--573
 Overfull \vbox (11.51736pt too high) detected at line 573
  []
 
-[66
+[65
 
- <./images/attribution360.png>] [67
+ <./images/attribution360.png>] [66
 
-] [68
+] [67
 
 ]
-<images/test_control.png, id=604, 803.0pt x 192.72pt>
+<images/test_control.png, id=543, 803.0pt x 192.72pt>
 File: images/test_control.png Graphic file (type png)
 
 <use images/test_control.png>
@@ -1891,23 +1845,23 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 586--586
 [][]  
  []
 
-[69
+[68
 
  <./images/test_control.png (PNG copy)>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 592--592
 [][]  
  []
 
-[70
+[69
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 592--592
 [][]  
  []
 
-[71
+[70
 
-] [72
+] [71
 
 ]
 File: images/cadence.png Graphic file (type png)
@@ -1919,7 +1873,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 601--601
 [][]  
  []
 
-[73
+[72
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1929,7 +1883,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 621--621
 [][]  
  []
 
-[74
+[73
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1939,9 +1893,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 647--647
 [][]  
  []
 
-[75
+[74
 
-] <images/test1.jpeg, id=645, 481.8pt x 481.8pt>
+] <images/test1.jpeg, id=583, 481.8pt x 481.8pt>
 File: images/test1.jpeg Graphic file (type jpg)
  <use images/test1.jpeg>
 Package pdftex.def Info: images/test1.jpeg used on input line 658.
@@ -1951,7 +1905,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 658--658
 [][]  
  []
 
-[76
+[75
 
  <./images/test1.jpeg>]
 File: images/test1.jpeg Graphic file (type jpg)
@@ -1963,7 +1917,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 658--658
 [][]  
  []
 
-[77
+[76
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -1979,6 +1933,13 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 682--682
 [][]  
  []
 
+[77
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 690--690
+[][]  
+ []
+
 [78
 
 ]
@@ -1988,14 +1949,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 690--690
 
 [79
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 690--690
-[][]  
- []
-
-[80
-
-] <images/adresponseovertime.png, id=672, 722.7pt x 406.51875pt>
+] <images/adresponseovertime.png, id=611, 722.7pt x 406.51875pt>
 File: images/adresponseovertime.png Graphic file (type png)
 
 <use images/adresponseovertime.png>
@@ -2010,7 +1964,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 698--698
 Overfull \vbox (13.41309pt too high) detected at line 698
  []
 
-[81
+[80
 
  <./images/adresponseovertime.png>]
 \openout4 = `tutorial.vrb'.
@@ -2020,9 +1974,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 713--713
 [][]  
  []
 
-[82
+[81
 
-] <images/emailtestovertime.png, id=685, 481.8pt x 361.35pt>
+] <images/emailtestovertime.png, id=624, 481.8pt x 361.35pt>
 File: images/emailtestovertime.png Graphic file (type png)
 
 <use images/emailtestovertime.png>
@@ -2037,34 +1991,34 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 720--720
 Overfull \vbox (10.28807pt too high) detected at line 720
  []
 
-[83
+[82
 
  <./images/emailtestovertime.png>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 732--732
 [][]  
  []
 
-[84
+[83
 
-] [85
+] [84
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 755--755
 [][]  
  []
 
-[86
+[85
 
-] [87
+] [86
 
-] <images/johnsonetaltest.png, id=719, 573.14125pt x 326.21875pt>
+] <images/johnsonetaltest.png, id=657, 573.14125pt x 326.21875pt>
 File: images/johnsonetaltest.png Graphic file (type png)
 
 <use images/johnsonetaltest.png>
 Package pdftex.def Info: images/johnsonetaltest.png used on input line 772.
 (pdftex.def)             Requested size: 119.50279pt x 68.01515pt.
 
-<images/johnsonetalcontrol.png, id=720, 375.4025pt x 313.17pt>
+<images/johnsonetalcontrol.png, id=658, 375.4025pt x 313.17pt>
 File: images/johnsonetalcontrol.png Graphic file (type png)
 
 <use images/johnsonetalcontrol.png>
@@ -2075,9 +2029,20 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 772--772
 [][]  
  []
 
-[88
+[87
 
  <./images/johnsonetaltest.png> <./images/johnsonetalcontrol.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
+[][]  
+ []
+
+
+Overfull \vbox (11.05121pt too high) detected at line 797
+ []
+
+[88
+
+]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
 [][]  
  []
@@ -2111,18 +2076,7 @@ Overfull \vbox (11.05121pt too high) detected at line 797
 [91
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 797--797
-[][]  
- []
-
-
-Overfull \vbox (11.05121pt too high) detected at line 797
- []
-
-[92
-
-]
-<images/johnsonetalrandomizationcheck.png, id=755, 593.21625pt x 320.19624pt>
+<images/johnsonetalrandomizationcheck.png, id=692, 593.21625pt x 320.19624pt>
 File: images/johnsonetalrandomizationcheck.png Graphic file (type png)
 
 <use images/johnsonetalrandomizationcheck.png>
@@ -2130,7 +2084,7 @@ Package pdftex.def Info: images/johnsonetalrandomizationcheck.png used on input
  line 807.
 (pdftex.def)             Requested size: 171.5395pt x 92.59102pt.
 
-<images/johnsonetalrandomizationcheck2.png, id=756, 401.5pt x 303.1325pt>
+<images/johnsonetalrandomizationcheck2.png, id=693, 401.5pt x 303.1325pt>
 File: images/johnsonetalrandomizationcheck2.png Graphic file (type png)
 
 <use images/johnsonetalrandomizationcheck2.png>
@@ -2146,10 +2100,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 807--807
 Overfull \vbox (7.96509pt too high) detected at line 807
  []
 
-[93
+[92
 
  <./images/johnsonetalrandomizationcheck.png> <./images/johnsonetalrandomizatio
-ncheck2.png>] <images/johnsonetalresult.png, id=765, 385.44pt x 182.6825pt>
+ncheck2.png>] <images/johnsonetalresult.png, id=702, 385.44pt x 182.6825pt>
 File: images/johnsonetalresult.png Graphic file (type png)
 
 <use images/johnsonetalresult.png>
@@ -2160,12 +2114,12 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 815--815
 [][]  
  []
 
-[94
+[93
 
- <./images/johnsonetalresult.png>] [95
+ <./images/johnsonetalresult.png>] [94
 
 ]
-<images/gordonetaltreatmentcontrol2.png, id=781, 714.67pt x 286.06876pt>
+<images/gordonetaltreatmentcontrol2.png, id=717, 714.67pt x 286.06876pt>
 File: images/gordonetaltreatmentcontrol2.png Graphic file (type png)
 
 <use images/gordonetaltreatmentcontrol2.png>
@@ -2181,9 +2135,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 826--826
 Overfull \vbox (13.51736pt too high) detected at line 826
  []
 
-[96
+[95
 
  <./images/gordonetaltreatmentcontrol2.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
+[][]  
+ []
+
+[96
+
+]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
 [][]  
  []
@@ -2205,13 +2166,6 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
 [99
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 849--849
-[][]  
- []
-
-[100
-
-]
 File: images/gordonetaltreatmentcontrol2.png Graphic file (type png)
  <use images/gordonetaltreatmentcontrol2.png>
 Package pdftex.def Info: images/gordonetaltreatmentcontrol2.png used on input l
@@ -2226,10 +2180,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 858--858
 Overfull \vbox (16.4618pt too high) detected at line 858
  []
 
-[101
+[100
 
 ]
-<images/gordonetalrandomizationcheck.png, id=818, 595.22375pt x 272.01625pt>
+<images/gordonetalrandomizationcheck.png, id=755, 595.22375pt x 272.01625pt>
 File: images/gordonetalrandomizationcheck.png Graphic file (type png)
 
 <use images/gordonetalrandomizationcheck.png>
@@ -2241,10 +2195,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 867--867
 [][]  
  []
 
-[102
+[101
 
  <./images/gordonetalrandomizationcheck.png>]
-<images/gordonetalresult.png, id=826, 662.475pt x 342.27875pt>
+<images/gordonetalresult.png, id=763, 662.475pt x 342.27875pt>
 File: images/gordonetalresult.png Graphic file (type png)
 
 <use images/gordonetalresult.png>
@@ -2259,16 +2213,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 875--875
 Overfull \vbox (5.06703pt too high) detected at line 875
  []
 
-[103
+[102
 
  <./images/gordonetalresult.png>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 887--887
 [][]  
  []
 
-[104
+[103
 
-] <images/FacebookCampaignLift2.png, id=841, 1186.4325pt x 820.06375pt>
+] <images/FacebookCampaignLift2.png, id=778, 1186.4325pt x 820.06375pt>
 File: images/FacebookCampaignLift2.png Graphic file (type png)
 
 <use images/FacebookCampaignLift2.png>
@@ -2284,12 +2238,12 @@ Overfull \hbox (3.54053pt too wide) in paragraph at lines 892--892
 Overfull \vbox (47.2955pt too high) detected at line 892
  []
 
-[105
+[104
 
- <./images/FacebookCampaignLift2.png (PNG copy)>] [106
+ <./images/FacebookCampaignLift2.png (PNG copy)>] [105
 
 ]
-<images/lespaul.png, id=856, 603.25375pt x 583.17876pt>
+<images/lespaul.png, id=792, 603.25375pt x 583.17876pt>
 File: images/lespaul.png Graphic file (type png)
 
 <use images/lespaul.png>
@@ -2304,9 +2258,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 906--906
 Overfull \vbox (1.81825pt too high) detected at line 906
  []
 
-[107
+[106
 
  <./images/lespaul.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
+[][]  
+ []
+
+[107
+
+]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
 [][]  
  []
@@ -2327,14 +2288,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
 
 [110
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 929--929
-[][]  
- []
-
-[111
-
-] <images/blakeetalresult.png, id=890, 542.025pt x 396.48125pt>
+] <images/blakeetalresult.png, id=825, 542.025pt x 396.48125pt>
 File: images/blakeetalresult.png Graphic file (type png)
 
 <use images/blakeetalresult.png>
@@ -2345,10 +2299,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 941--941
 [][]  
  []
 
-[112
+[111
 
  <./images/blakeetalresult.png>]
-<images/blakeetallasttouch.png, id=898, 556.0775pt x 413.545pt>
+<images/blakeetallasttouch.png, id=833, 556.0775pt x 413.545pt>
 File: images/blakeetallasttouch.png Graphic file (type png)
 
 <use images/blakeetallasttouch.png>
@@ -2359,11 +2313,11 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 955--955
 [][]  
  []
 
-[113
+[112
 
- <./images/blakeetallasttouch.png>] [114
+ <./images/blakeetallasttouch.png>] [113
 
-] [115
+] [114
 
 ]
 File: images/cadence.png Graphic file (type png)
@@ -2377,6 +2331,13 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 967--967
 
 
 Overfull \vbox (3.59172pt too high) detected at line 967
+ []
+
+[115
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
+[][]  
  []
 
 [116
@@ -2402,14 +2363,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
 
 [119
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 980--980
-[][]  
- []
-
-[120
-
-] [121
+] [120
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2419,7 +2373,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 996--996
 [][]  
  []
 
-[122
+[121
 
 ]
 File: images/transbyday.png Graphic file (type png)
@@ -2431,7 +2385,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1002--1002
 [][]  
  []
 
-[123
+[122
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2441,7 +2395,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1021--1021
 [][]  
  []
 
-[124
+[123
 
 ]
 File: images/cadence.png Graphic file (type png)
@@ -2453,7 +2407,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1027--1027
 [][]  
  []
 
-[125
+[124
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2469,7 +2423,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1041--1041
 [][]  
  []
 
-[126
+[125
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2479,9 +2433,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1055--1055
 [][]  
  []
 
-[127
+[126
 
-] <images/mixmodeldisplavtrans.png, id=988, 481.8pt x 481.8pt>
+] <images/mixmodeldisplavtrans.png, id=920, 481.8pt x 481.8pt>
 File: images/mixmodeldisplavtrans.png Graphic file (type png)
 
 <use images/mixmodeldisplavtrans.png>
@@ -2489,7 +2443,7 @@ Package pdftex.def Info: images/mixmodeldisplavtrans.png used on input line 106
 0.
 (pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
 
-<images/mixmodelsocialvtrans.png, id=989, 481.8pt x 481.8pt>
+<images/mixmodelsocialvtrans.png, id=921, 481.8pt x 481.8pt>
 File: images/mixmodelsocialvtrans.png Graphic file (type png)
 
 <use images/mixmodelsocialvtrans.png>
@@ -2501,10 +2455,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1060--1060
 [][]  
  []
 
-[128
+[127
 
  <./images/mixmodeldisplavtrans.png> <./images/mixmodelsocialvtrans.png>]
-<images/mixmodelemailvtrans.png, id=997, 481.8pt x 481.8pt>
+<images/mixmodelemailvtrans.png, id=930, 481.8pt x 481.8pt>
 File: images/mixmodelemailvtrans.png Graphic file (type png)
 
 <use images/mixmodelemailvtrans.png>
@@ -2512,7 +2466,7 @@ Package pdftex.def Info: images/mixmodelemailvtrans.png used on input line 1065
 .
 (pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
 
-<images/mixmodeldirectvtrans.png, id=998, 481.8pt x 481.8pt>
+<images/mixmodeldirectvtrans.png, id=931, 481.8pt x 481.8pt>
 File: images/mixmodeldirectvtrans.png Graphic file (type png)
 
 <use images/mixmodeldirectvtrans.png>
@@ -2524,7 +2478,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1065--1065
 [][]  
  []
 
-[129
+[128
 
  <./images/mixmodelemailvtrans.png> <./images/mixmodeldirectvtrans.png>]
 \openout4 = `tutorial.vrb'.
@@ -2535,12 +2489,29 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1088--1088
 [][]  
  []
 
-[130
+[129
 
 ]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb
+Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
+[][]  
+ []
+
+[130
+
+] (./tutorial.vrb
 Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2574,18 +2545,11 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
 
 [132
 
-] (./tutorial.vrb
-Overfull \hbox (11.21074pt too wide) in paragraph at lines 5--6
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+]
+\openout4 = `tutorial.vrb'.
 
-
-Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
+ (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1137--1137
 [][]  
  []
 
@@ -2595,16 +2559,17 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1129--1129
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1137--1137
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1178--1178
 [][]  
+ []
+
+
+Overfull \vbox (9.87666pt too high) detected at line 1178
  []
 
 [134
 
-]
-\openout4 = `tutorial.vrb'.
-
- (./tutorial.vrb)
+] (./tutorial.vrb)
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1178--1178
 [][]  
  []
@@ -2615,13 +2580,9 @@ Overfull \vbox (9.87666pt too high) detected at line 1178
 
 [135
 
-] (./tutorial.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1178--1178
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
 [][]  
- []
-
-
-Overfull \vbox (9.87666pt too high) detected at line 1178
  []
 
 [136
@@ -2647,14 +2608,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
 
 [139
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1191--1191
-[][]  
- []
-
-[140
-
-] <images/exponential-decay.png, id=1063, 368.87813pt x 322.20375pt>
+] <images/exponential-decay.png, id=997, 368.87813pt x 322.20375pt>
 File: images/exponential-decay.png Graphic file (type png)
 
 <use images/exponential-decay.png>
@@ -2665,7 +2619,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1204--1204
 [][]  
  []
 
-[141
+[140
 
  <./images/exponential-decay.png>]
 File: images/exponential-decay.png Graphic file (type png)
@@ -2677,7 +2631,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1204--1204
 [][]  
  []
 
-[142
+[141
 
 ]
 File: images/adresponseovertime.png Graphic file (type png)
@@ -2694,7 +2648,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1212--1212
 Overfull \vbox (13.41382pt too high) detected at line 1212
  []
 
-[143
+[142
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2704,7 +2658,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1223--1223
 [][]  
  []
 
-[144
+[143
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2714,7 +2668,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1245--1245
 [][]  
  []
 
-[145
+[144
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -2724,9 +2678,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1254--1254
 [][]  
  []
 
-[146
+[145
 
-] <images/mixmodelemailstock.png, id=1097, 602.25pt x 401.5pt>
+] <images/mixmodelemailstock.png, id=1031, 602.25pt x 401.5pt>
 File: images/mixmodelemailstock.png Graphic file (type png)
 
 <use images/mixmodelemailstock.png>
@@ -2738,10 +2692,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1260--1260
 [][]  
  []
 
-[147
+[146
 
  <./images/mixmodelemailstock.png>]
-<images/mixmodeldirectstock.png, id=1104, 602.25pt x 401.5pt>
+<images/mixmodeldirectstock.png, id=1038, 602.25pt x 401.5pt>
 File: images/mixmodeldirectstock.png Graphic file (type png)
 
 <use images/mixmodeldirectstock.png>
@@ -2753,10 +2707,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1266--1266
 [][]  
  []
 
-[148
+[147
 
  <./images/mixmodeldirectstock.png>]
-<images/mixmodeldisplaystock.png, id=1111, 602.25pt x 401.5pt>
+<images/mixmodeldisplaystock.png, id=1045, 602.25pt x 401.5pt>
 File: images/mixmodeldisplaystock.png Graphic file (type png)
 
 <use images/mixmodeldisplaystock.png>
@@ -2768,10 +2722,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1272--1272
 [][]  
  []
 
-[149
+[148
 
  <./images/mixmodeldisplaystock.png>]
-<images/mixmodelsocialstock.png, id=1118, 602.25pt x 401.5pt>
+<images/mixmodelsocialstock.png, id=1052, 602.25pt x 401.5pt>
 File: images/mixmodelsocialstock.png Graphic file (type png)
 
 <use images/mixmodelsocialstock.png>
@@ -2783,7 +2737,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1278--1278
 [][]  
  []
 
-[150
+[149
 
  <./images/mixmodelsocialstock.png>]
 \openout4 = `tutorial.vrb'.
@@ -2793,9 +2747,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1287--1287
 [][]  
  []
 
-[151
+[150
 
-] <images/mixmodelemailstockvtrans.png, id=1131, 481.8pt x 481.8pt>
+] <images/mixmodelemailstockvtrans.png, id=1064, 481.8pt x 481.8pt>
 File: images/mixmodelemailstockvtrans.png Graphic file (type png)
 
 <use images/mixmodelemailstockvtrans.png>
@@ -2803,7 +2757,7 @@ Package pdftex.def Info: images/mixmodelemailstockvtrans.png used on input line
  1292.
 (pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
 
-<images/mixmodeldirectstockvtrans.png, id=1132, 481.8pt x 481.8pt>
+<images/mixmodeldirectstockvtrans.png, id=1065, 481.8pt x 481.8pt>
 File: images/mixmodeldirectstockvtrans.png Graphic file (type png)
 
 <use images/mixmodeldirectstockvtrans.png>
@@ -2815,10 +2769,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1292--1292
 [][]  
  []
 
-[152
+[151
 
  <./images/mixmodelemailstockvtrans.png> <./images/mixmodeldirectstockvtrans.pn
-g>] <images/mixmodeldisplaystockvtrans.png, id=1140, 481.8pt x 481.8pt>
+g>] <images/mixmodeldisplaystockvtrans.png, id=1074, 481.8pt x 481.8pt>
 File: images/mixmodeldisplaystockvtrans.png Graphic file (type png)
 
 <use images/mixmodeldisplaystockvtrans.png>
@@ -2826,7 +2780,7 @@ Package pdftex.def Info: images/mixmodeldisplaystockvtrans.png used on input li
 ne 1297.
 (pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
 
-<images/mixmodelsocialstockvtrans.png, id=1141, 481.8pt x 481.8pt>
+<images/mixmodelsocialstockvtrans.png, id=1075, 481.8pt x 481.8pt>
 File: images/mixmodelsocialstockvtrans.png Graphic file (type png)
 
 <use images/mixmodelsocialstockvtrans.png>
@@ -2838,7 +2792,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1297--1297
 [][]  
  []
 
-[153
+[152
 
  <./images/mixmodeldisplaystockvtrans.png> <./images/mixmodelsocialstockvtrans.
 png>]
@@ -2855,12 +2809,68 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1319--1319
 [][]  
  []
 
-[154
+[153
 
 ]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb
+Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1358--1358
+[][]  
+ []
+
+
+Overfull \vbox (30.57655pt too high) detected at line 1358
+ []
+
+[154
+
+] (./tutorial.vrb
 Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2972,67 +2982,18 @@ Overfull \vbox (30.57655pt too high) detected at line 1358
 
 [156
 
-] (./tutorial.vrb
-Overfull \hbox (20.77347pt too wide) in paragraph at lines 5--6
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (8.02316pt too wide) in paragraph at lines 10--11
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[][][][][][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-[][][][][][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[][][][][][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-[][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-[][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-[][][][][][][][][][][][][][][][][][][][][]
- []
-
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1358--1358
-[][]  
- []
-
-
-Overfull \vbox (30.57655pt too high) detected at line 1358
- []
-
-[157
-
 ]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb)
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1375--1375
+[][]  
+ []
+
+[157
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1385--1385
 [][]  
  []
 
@@ -3044,13 +3005,6 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1385--1385
  []
 
 [159
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1385--1385
-[][]  
- []
-
-[160
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3079,6 +3033,13 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1409--1409
 Overfull \vbox (8.78722pt too high) detected at line 1409
  []
 
+[160
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1424--1424
+[][]  
+ []
+
 [161
 
 ]
@@ -3088,14 +3049,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1424--1424
 
 [162
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1424--1424
-[][]  
- []
-
-[163
-
-] <images/sshapedadresponse.png, id=1202, 275.0275pt x 214.8025pt>
+] <images/sshapedadresponse.png, id=1134, 275.0275pt x 214.8025pt>
 File: images/sshapedadresponse.png Graphic file (type png)
 
 <use images/sshapedadresponse.png>
@@ -3106,7 +3060,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1439--1439
 [][]  
  []
 
-[164
+[163
 
  <./images/sshapedadresponse.png>]
 File: images/adresponseovertime.png Graphic file (type png)
@@ -3123,9 +3077,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1447--1447
 Overfull \vbox (22.01901pt too high) detected at line 1447
  []
 
-[165
+[164
 
-] <images/littleprincipals.png, id=1216, 558.085pt x 220.825pt>
+] <images/littleprincipals.png, id=1150, 558.085pt x 220.825pt>
 File: images/littleprincipals.png Graphic file (type png)
 
 <use images/littleprincipals.png>
@@ -3140,14 +3094,21 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1453--1453
 Overfull \vbox (13.79607pt too high) detected at line 1453
  []
 
-[166
+[165
 
- <./images/littleprincipals.png>] [167
+ <./images/littleprincipals.png>] [166
 
 ]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
+[][]  
+ []
+
+[167
+
+] (./tutorial.vrb)
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
 [][]  
  []
@@ -3161,8 +3122,8 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
 
 [169
 
-] (./tutorial.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1465--1465
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1475--1475
 [][]  
  []
 
@@ -3176,7 +3137,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1475--1475
 [171
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1475--1475
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1487--1487
 [][]  
  []
 
@@ -3190,14 +3151,14 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1487--1487
 [173
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1487--1487
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1495--1495
 [][]  
  []
 
 [174
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1495--1495
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
 [][]  
  []
 
@@ -3217,25 +3178,18 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
 
 [177
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1509--1509
-[][]  
- []
-
-[178
+] [178
 
 ] [179
-
-] [180
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1521--1521
 [][]  
  []
 
-[181
+[180
 
-] [182
+] [181
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3245,7 +3199,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1539--1539
 [][]  
  []
 
-[183
+[182
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3255,7 +3209,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1559--1559
 [][]  
  []
 
-[184
+[183
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3265,7 +3219,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1586--1586
 [][]  
  []
 
-[185
+[184
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3275,7 +3229,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1607--1607
 [][]  
  []
 
-[186
+[185
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3285,7 +3239,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1627--1627
 [][]  
  []
 
-[187
+[186
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3295,7 +3249,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1641--1641
 [][]  
  []
 
-[188
+[187
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3305,7 +3259,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1669--1669
 [][]  
  []
 
-[189
+[188
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3315,7 +3269,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1690--1690
 [][]  
  []
 
-[190
+[189
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3363,9 +3317,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1704--1704
 [][]  
  []
 
-[191
+[190
 
-] <images/attribmodelemailvtrans.png, id=1364, 481.8pt x 481.8pt>
+] <images/attribmodelemailvtrans.png, id=1295, 481.8pt x 481.8pt>
 File: images/attribmodelemailvtrans.png Graphic file (type png)
 
 <use images/attribmodelemailvtrans.png>
@@ -3373,7 +3327,7 @@ Package pdftex.def Info: images/attribmodelemailvtrans.png used on input line 1
 710.
 (pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
 
-<images/attribmodeldirectvtrans.png, id=1365, 481.8pt x 481.8pt>
+<images/attribmodeldirectvtrans.png, id=1296, 481.8pt x 481.8pt>
 File: images/attribmodeldirectvtrans.png Graphic file (type png)
 
 <use images/attribmodeldirectvtrans.png>
@@ -3389,10 +3343,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1710--1710
 Overfull \vbox (7.5559pt too high) detected at line 1710
  []
 
-[192
+[191
 
  <./images/attribmodelemailvtrans.png> <./images/attribmodeldirectvtrans.png>] 
-<images/attribmodeldisplayvtrans.png, id=1373, 481.8pt x 481.8pt>
+<images/attribmodeldisplayvtrans.png, id=1304, 481.8pt x 481.8pt>
 File: images/attribmodeldisplayvtrans.png Graphic file (type png)
 
 <use images/attribmodeldisplayvtrans.png>
@@ -3400,7 +3354,7 @@ Package pdftex.def Info: images/attribmodeldisplayvtrans.png used on input line
  1715.
 (pdftex.def)             Requested size: 179.25114pt x 179.24832pt.
 
-<images/attribmodelsocialvtrans.png, id=1374, 481.8pt x 481.8pt>
+<images/attribmodelsocialvtrans.png, id=1305, 481.8pt x 481.8pt>
 File: images/attribmodelsocialvtrans.png Graphic file (type png)
 
 <use images/attribmodelsocialvtrans.png>
@@ -3412,7 +3366,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1715--1715
 [][]  
  []
 
-[193
+[192
 
  <./images/attribmodeldisplayvtrans.png> <./images/attribmodelsocialvtrans.png>
 ]
@@ -3423,7 +3377,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1736--1736
 [][]  
  []
 
-[194
+[193
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3438,7 +3392,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1764--1764
 [][]  
  []
 
-[195
+[194
 
 ] (./tutorial.vrb
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
@@ -3450,7 +3404,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1764--1764
 [][]  
  []
 
-[196
+[195
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3466,12 +3420,28 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1786--1786
 [][]  
  []
 
-[197
+[196
 
 ]
 \openout4 = `tutorial.vrb'.
 
  (./tutorial.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1817--1817
+[][]  
+ []
+
+
+Overfull \vbox (11.9067pt too high) detected at line 1817
+ []
+
+[197
+
+] (./tutorial.vrb
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 [][][][][][][][][][][][][][][][][][][][][][][]
  []
@@ -3503,18 +3473,9 @@ Overfull \vbox (11.9067pt too high) detected at line 1817
 
 [199
 
-] (./tutorial.vrb
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[][][][][][][][][][][][][][][][][][][][][][][]
- []
-
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1817--1817
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1823--1823
 [][]  
- []
-
-
-Overfull \vbox (11.9067pt too high) detected at line 1817
  []
 
 [200
@@ -3525,13 +3486,6 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1823--1823
  []
 
 [201
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1823--1823
-[][]  
- []
-
-[202
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3545,7 +3499,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1851--1851
 Overfull \vbox (46.33395pt too high) detected at line 1851
  []
 
-[203
+[202
 
 ]
 \openout4 = `tutorial.vrb'.
@@ -3561,7 +3515,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1885--1885
 [][]  
  []
 
-[204
+[203
 
 ] (./tutorial.vrb
 Overfull \hbox (4.04291pt too wide) in paragraph at lines 5--6
@@ -3574,9 +3528,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1885--1885
 [][]  
  []
 
-[205
+[204
 
-] [206
+] [205
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
+[][]  
+ []
+
+[206
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
@@ -3586,7 +3547,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
 [207
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1913--1913
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1925--1925
 [][]  
  []
 
@@ -3600,13 +3561,6 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1925--1925
 [209
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 1925--1925
-[][]  
- []
-
-[210
-
-]
 File: images/adresponseovertime.png Graphic file (type png)
  <use images/adresponseovertime.png>
 Package pdftex.def Info: images/adresponseovertime.png used on input line 1933.
@@ -3617,9 +3571,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1933--1933
 [][]  
  []
 
-[211
+[210
 
-] <images/ad_stock_over_time.png, id=1481, 289.08pt x 174.15062pt>
+] <images/ad_stock_over_time.png, id=1410, 289.08pt x 174.15062pt>
 File: images/ad_stock_over_time.png Graphic file (type png)
 
 <use images/ad_stock_over_time.png>
@@ -3631,25 +3585,25 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1951--1951
 [][]  
  []
 
-[212
+[211
 
  <./images/ad_stock_over_time.png>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 1961--1961
 [][]  
  []
 
-[213
+[212
 
-] [214
+] [213
 
-] <images/Subscribe.jpeg, id=1507, 580.569pt x 589.2414pt>
+] <images/Subscribe.jpeg, id=1436, 580.569pt x 589.2414pt>
 File: images/Subscribe.jpeg Graphic file (type jpg)
 
 <use images/Subscribe.jpeg>
 Package pdftex.def Info: images/Subscribe.jpeg used on input line 1990.
 (pdftex.def)             Requested size: 59.74835pt x 60.6359pt.
 
-<images/Catalog_Icon.jpg, id=1508, 272.01625pt x 213.79875pt>
+<images/Catalog_Icon.jpg, id=1437, 272.01625pt x 213.79875pt>
 File: images/Catalog_Icon.jpg Graphic file (type jpg)
 
 <use images/Catalog_Icon.jpg>
@@ -3665,7 +3619,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1990--1990
 [][]  
  []
 
-[215
+[214
 
  <./images/Subscribe.jpeg> <./images/Catalog_Icon.jpg>]
 File: images/Subscribe.jpeg Graphic file (type jpg)
@@ -3687,16 +3641,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 1990--1990
 [][]  
  []
 
-[216
+[215
 
-] <images/campaigns_by_day.pdf, id=1525, 433.62pt x 289.08pt>
+] <images/campaigns_by_day.pdf, id=1454, 433.62pt x 289.08pt>
 File: images/campaigns_by_day.pdf Graphic file (type pdf)
 
 <use images/campaigns_by_day.pdf>
 Package pdftex.def Info: images/campaigns_by_day.pdf used on input line 2004.
 (pdftex.def)             Requested size: 173.61034pt x 115.74055pt.
 
-<images/sales_by_day.pdf, id=1526, 433.62pt x 289.08pt>
+<images/sales_by_day.pdf, id=1455, 433.62pt x 289.08pt>
 File: images/sales_by_day.pdf Graphic file (type pdf)
 
 <use images/sales_by_day.pdf>
@@ -3711,10 +3665,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2004--2004
 Overfull \vbox (36.54431pt too high) detected at line 2004
  []
 
-[217
+[216
 
  <./images/campaigns_by_day.pdf> <./images/sales_by_day.pdf>]
-<images/cust_143.pdf, id=1547, 433.62pt x 289.08pt>
+<images/cust_143.pdf, id=1475, 433.62pt x 289.08pt>
 File: images/cust_143.pdf Graphic file (type pdf)
  <use images/cust_143.pdf>
 Package pdftex.def Info: images/cust_143.pdf used on input line 2010.
@@ -3728,17 +3682,24 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2010--2010
 Overfull \vbox (23.16792pt too high) detected at line 2010
  []
 
-[218
+[217
 
  <./images/cust_143.pdf>]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 2032--2032
 [][]  
  []
 
-[219
+[218
 
 ]
 Overfull \hbox (0.4pt too wide) in paragraph at lines 2044--2044
+[][]  
+ []
+
+[219
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
 [][]  
  []
 
@@ -3772,14 +3733,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
 
 [224
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 2071--2071
-[][]  
- []
-
-[225
-
-] <images/CIR_CAT_EMAIL2.pdf, id=1601, 704.6325pt x 702.625pt>
+] <images/CIR_CAT_EMAIL2.pdf, id=1529, 704.6325pt x 702.625pt>
 File: images/CIR_CAT_EMAIL2.pdf Graphic file (type pdf)
 
 <use images/CIR_CAT_EMAIL2.pdf>
@@ -3794,10 +3748,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2083--2083
 Overfull \vbox (2.66234pt too high) detected at line 2083
  []
 
-[226
+[225
 
  <./images/CIR_CAT_EMAIL2.pdf>]
-<images/CIR_CUM_PLOT_2.pdf, id=1612, 959.585pt x 822.07124pt>
+<images/CIR_CUM_PLOT_2.pdf, id=1541, 959.585pt x 822.07124pt>
 File: images/CIR_CUM_PLOT_2.pdf Graphic file (type pdf)
 
 <use images/CIR_CUM_PLOT_2.pdf>
@@ -3808,12 +3762,12 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2095--2095
 [][]  
  []
 
-[227
+[226
 
- <./images/CIR_CUM_PLOT_2.pdf>] [228
+ <./images/CIR_CUM_PLOT_2.pdf>] [227
 
 ]
-<images/searchad.png, id=1629, 923.45pt x 889.3225pt>
+<images/searchad.png, id=1557, 923.45pt x 889.3225pt>
 File: images/searchad.png Graphic file (type png)
 
 <use images/searchad.png>
@@ -3824,9 +3778,21 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
 [][]  
  []
 
-[229
+[228
 
  <./images/searchad.png>]
+File: images/searchad.png Graphic file (type png)
+ <use images/searchad.png>
+Package pdftex.def Info: images/searchad.png used on input line 2110.
+(pdftex.def)             Requested size: 199.1693pt x 191.79768pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
+[][]  
+ []
+
+[229
+
+]
 File: images/searchad.png Graphic file (type png)
  <use images/searchad.png>
 Package pdftex.def Info: images/searchad.png used on input line 2110.
@@ -3839,25 +3805,13 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
 [230
 
 ]
-File: images/searchad.png Graphic file (type png)
- <use images/searchad.png>
-Package pdftex.def Info: images/searchad.png used on input line 2110.
-(pdftex.def)             Requested size: 199.1693pt x 191.79768pt.
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 2110--2110
+Overfull \hbox (0.4pt too wide) in paragraph at lines 2131--2131
 [][]  
  []
 
 [231
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 2131--2131
-[][]  
- []
-
-[232
-
-] <images/Chapman_and_Feit_Cover.jpg, id=1652, 199.2243pt x 302.3295pt>
+] <images/Chapman_and_Feit_Cover.jpg, id=1580, 199.2243pt x 302.3295pt>
 File: images/Chapman_and_Feit_Cover.jpg Graphic file (type jpg)
 
 <use images/Chapman_and_Feit_Cover.jpg>
@@ -3869,11 +3823,12 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 2142--2142
 [][]  
  []
 
-[233
+[232
 
- <./images/Chapman_and_Feit_Cover.jpg>] [234
+ <./images/Chapman_and_Feit_Cover.jpg>] [233
 
 ]
+<images/AdvertisingTechWorkshop.pdf, id=1592, 963.6pt x 542.025pt>
 File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
 
 <use images/AdvertisingTechWorkshop.pdf>
@@ -3887,7 +3842,7 @@ Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf used on input line
 2161.
 (pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
 
-<images/AdvertisingTechWorkshop.pdf, id=1666, page=2, 963.6pt x 542.025pt>
+<images/AdvertisingTechWorkshop.pdf, id=1595, page=2, 963.6pt x 542.025pt>
 File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
 
 <use images/AdvertisingTechWorkshop.pdf, page 2>
@@ -3918,7 +3873,7 @@ File: images/AdvertisingTechWorkshop.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/AdvertisingTechWorkshop.pdf, page2 used on inpu
 t line 2161.
 (pdftex.def)             Requested size: 455.25931pt x 256.08334pt.
- [235
+ [234
 
  <./images/AdvertisingTechWorkshop.pdf>]
 \tf@nav=\write6
@@ -3936,15 +3891,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 2164.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2164.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2164.
 
+Package rerunfilecheck Info: File `tutorial.out' has not changed.
+(rerunfilecheck)             Checksum: 289715A56BD6B1FF2CFCDC92C955301E;1763.
 
-
-Package rerunfilecheck Warning: File `tutorial.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `tutorial.out':
-(rerunfilecheck)             Before: B1A5739D0700F3C3F5BAB8E387298179;1760
-(rerunfilecheck)             After:  0A4606972DEB5FDBCA2B89E0E46E07B9;1763.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -3958,87 +3907,36 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2164.
  ) 
 Here is how much of TeX's memory you used:
- 24566 strings out of 493014
- 470692 string characters out of 6133351
- 644378 words of memory out of 5000000
- 26868 multiletter control sequences out of 15000+600000
+ 24544 strings out of 493014
+ 470284 string characters out of 6133351
+ 644455 words of memory out of 5000000
+ 26865 multiletter control sequences out of 15000+600000
  15096 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,21n,97p,1807b,1698s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Outline0.5.4.159} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.5.3.153} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.5.2.134} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.5.1.132} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.3.125} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.2.90} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.1.87} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.6.81} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.5.73} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.4.68} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.3.66} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.2.55} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.1.52} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.3.43} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.2.36} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.1.34} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.2.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on tutorial.pdf (235 pages, 9640708 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on tutorial.pdf (234 pages, 8095622 bytes).
 PDF statistics:
- 1867 PDF objects out of 2073 (max. 8388607)
- 1449 compressed objects within 15 object streams
- 517 named destinations out of 1000 (max. 500000)
- 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1818 PDF objects out of 2073 (max. 8388607)
+ 1412 compressed objects within 15 object streams
+ 498 named destinations out of 1000 (max. 500000)
+ 560 words of extra memory for PDF output out of 10000 (max. 10000000)
 

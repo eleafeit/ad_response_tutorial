@@ -1,28 +1,28 @@
 \beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Preliminaries}{4}{0}{1}
-\beamer@subsectionintoc {1}{1}{Why advertising response?}{5}{0}{1}
-\beamer@subsectionintoc {1}{2}{Data}{21}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{1}{Customer file}{26}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{2}{Impressions file}{29}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{3}{Transactions file}{36}{0}{1}
-\beamer@sectionintoc {2}{Attribution rules}{44}{0}{2}
-\beamer@subsectionintoc {2}{1}{What is last click?}{45}{0}{2}
-\beamer@subsectionintoc {2}{2}{Last touch analysis in R}{48}{0}{2}
-\beamer@subsectionintoc {2}{3}{Limitations of last-click}{55}{0}{2}
-\beamer@sectionintoc {3}{Holdout testing}{67}{0}{3}
-\beamer@subsectionintoc {3}{1}{What is a holdout test?}{68}{0}{3}
-\beamer@subsectionintoc {3}{2}{Holdout test analysis in R}{72}{0}{3}
-\beamer@subsectionintoc {3}{3}{Planning a holdout test}{85}{0}{3}
-\beamer@subsectionintoc {3}{4}{Example: Johnson, Lewis and Reiley (2017)}{87}{0}{3}
-\beamer@subsectionintoc {3}{5}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{95}{0}{3}
-\beamer@subsectionintoc {3}{6}{Example: Blake, Nosko and Tadellis (2015)}{106}{0}{3}
-\beamer@sectionintoc {4}{Marketing mix modeling}{114}{0}{4}
-\beamer@subsectionintoc {4}{1}{What is marketing mix modeling?}{115}{0}{4}
-\beamer@subsectionintoc {4}{2}{Marketing-mix modeling in R}{121}{0}{4}
-\beamer@subsectionintoc {4}{3}{What can go wrong?}{167}{0}{4}
-\beamer@sectionintoc {5}{Model-based attribution}{179}{0}{5}
-\beamer@subsectionintoc {5}{1}{What is model-based attribution?}{180}{0}{5}
-\beamer@subsectionintoc {5}{2}{Model-based attribution in R}{182}{0}{5}
-\beamer@subsectionintoc {5}{3}{Advanced attribution model features}{206}{0}{5}
-\beamer@subsectionintoc {5}{4}{Example: Zantedeschi, Feit and Bradlow (2017)}{214}{0}{5}
-\beamer@sectionintoc {6}{Review}{228}{0}{6}
+\beamer@sectionintoc {1}{Preliminaries}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Why advertising response?}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Data}{20}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{Customer file}{25}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{Impressions file}{28}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{3}{Transactions file}{35}{0}{1}
+\beamer@sectionintoc {2}{Attribution rules}{43}{0}{2}
+\beamer@subsectionintoc {2}{1}{What is last click?}{44}{0}{2}
+\beamer@subsectionintoc {2}{2}{Last touch analysis in R}{47}{0}{2}
+\beamer@subsectionintoc {2}{3}{Limitations of last-click}{54}{0}{2}
+\beamer@sectionintoc {3}{Holdout testing}{66}{0}{3}
+\beamer@subsectionintoc {3}{1}{What is a holdout test?}{67}{0}{3}
+\beamer@subsectionintoc {3}{2}{Holdout test analysis in R}{71}{0}{3}
+\beamer@subsectionintoc {3}{3}{Planning a holdout test}{84}{0}{3}
+\beamer@subsectionintoc {3}{4}{Example: Johnson, Lewis and Reiley (2017)}{86}{0}{3}
+\beamer@subsectionintoc {3}{5}{Example: Gordon, Zettelmeyer, Bahargava and Chapsky (2016WP)}{94}{0}{3}
+\beamer@subsectionintoc {3}{6}{Example: Blake, Nosko and Tadellis (2015)}{105}{0}{3}
+\beamer@sectionintoc {4}{Marketing mix modeling}{113}{0}{4}
+\beamer@subsectionintoc {4}{1}{What is marketing mix modeling?}{114}{0}{4}
+\beamer@subsectionintoc {4}{2}{Marketing-mix modeling in R}{120}{0}{4}
+\beamer@subsectionintoc {4}{3}{What can go wrong?}{166}{0}{4}
+\beamer@sectionintoc {5}{Model-based attribution}{178}{0}{5}
+\beamer@subsectionintoc {5}{1}{What is model-based attribution?}{179}{0}{5}
+\beamer@subsectionintoc {5}{2}{Model-based attribution in R}{181}{0}{5}
+\beamer@subsectionintoc {5}{3}{Advanced attribution model features}{205}{0}{5}
+\beamer@subsectionintoc {5}{4}{Example: Zantedeschi, Feit and Bradlow (2017)}{213}{0}{5}
+\beamer@sectionintoc {6}{Review}{227}{0}{6}
