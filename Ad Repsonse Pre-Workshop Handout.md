@@ -1,8 +1,11 @@
 ---
-title: Is My Advertising Working? Pre-Workshop Handout
-author: Elea McDonnell Feit
-date: 21 February 2018
+output:
+  html_document: default
+  pdf_document: default
 ---
+# Is My Advertising Working?: Pre-Workshop Handout
+#### Elea McDonnell Feit
+#### 21 February 2018
 
 Welcome to the workshop on “Is My Advertising Working?”  During this session, you will gain experience with four different approaches to determining advertising response: 
 
@@ -48,7 +51,7 @@ You can download the free version of R Studio at https://www.rstudio.com/product
 **R Code:**  https://github.com/eleafeit/ad_response_tutorial/blob/master/R%20code/AdResponseTutorial.R  
 You can save this file to your local machine and then open in RStudio using the command File > Open File. Don’t worry if you don’t know what to do next. We’ll start the workshop from this point. 
 
-**Data [only needed for those using tools other than R]: **
+**Data (only needed for those using tools other than R): **
 The links to the data files are included in the R code file and we’ll download the data directly into R. If you are using another tool like SAS or Python, you can download the data files directly using these links:  
 **customer table:** https://github.com/eleafeit/ad_response_tutorial/blob/master/R%20code/customer.csv   
 **impressions table:** https://github.com/eleafeit/ad_response_tutorial/blob/master/R%20code/impressions.csv  
