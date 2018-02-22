@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 # Is My Advertising Working?: Pre-Workshop Handout
 #### Elea McDonnell Feit
